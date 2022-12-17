@@ -1,0 +1,63 @@
+https://www.printful.com/
+
+
+https://baserow.io
+Baserow is an open-source online database tool. Users can use this no-code platform to create a database without any technical experience.
+This is very similar to Spreadsheet.
+The interface looks a lot like a spreadsheet ,Microsoft Excel.
+Please let me explain about a good experience in this project.
+In this project we used Vue.js / Nuxt.js for frontend , Python / Django for backend , PostgreSQL for backend , Docker for lightweight and modular , Redis for in-memory.
+Backend
+The backend(Django) consists of the core, api and database apps.
+In API we used CoreHandler, TableHandler, FieldHandler etc to implement a Web Socket API, SOAP API or any other API that we also build around the same handler.
+Frontend
+The frontend(Vue.js / Nuxt.js) consists of the core and database modules.
+The biggest challenge was to implement multi select and single select.
+
+https://kprverse.com/ - Vue.js / Nuxt.js / 
+
+
+-------------------------------------------------------------------
+I have over 6 years of experience with Vue.js and I am specialized in Vue.js
+My Vue skill sets:
+✔ Vue.js / Vue2 / Vue3 (Composition API) / Inoic Vue
+✔ Nuxt.js (Vue.js, Node.js, Webpack and Babel.js)
+✔ Quasar framework
+✔ Vuex / Pinia for Vue app's state management.
+✔ Vuetify for Material Design
+✔ Vue + Tailwind CSS / BootstrapVue
+✔ Vite / VueStoreFront
+
+My Laravel Skill Sets:
+✔ Database Management Skills 
+✔ Understanding OOP and MVC
+✔ Knowledge of Project Management Frameworks
+✔ livewire
+
+Vue + Laravel benefits:
+✔ Reactive Event-Driven Apps
+✔ Single Page Application
+✔ Application Security
+✔ Flexible Database Access
+✔ Serverless Deployment
+✔ Database Migration
+
+Followings are my prior projects.
+https://kprverse.com/  (Vue3 / Node.js / MongoDB)
+https://www.printful.com/ (Vue2 / Ruby on Rails)
+https://www.doxo.com/
+https://www.dice.com/
+https://www.rosegal.com/
+https://www.rei.com/
+https://baserow.io (Vue.js / Nuxt.js)
+
+Live website that is converted from Figma design using Vue.js
+https://travelinsurancemaster.com/
+https://www.figma.com/file/lcZragBw6XSAXgKwkpjSWh/TRAVEL-INSURANCE-MASTER?node-id=0%3A1
+
+I am very much interested and experienced in Composition API and Pinia of Vue3.
+I can start work immediately.
+Best Regards.
+
+
+***Figma

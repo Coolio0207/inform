@@ -1,0 +1,15 @@
+I am an Application Developer who creates, maintains, and builds industry-leading software.
+
+A self-starter who is fueled by collaboration, able to transform conceptual thinking into executable insights who thrives in partnering across the company with software developers and data engineers, economists and statisticians and product creators and marketers.
+
+- .Net Framework, .Net MVC , Asp.Net, and C#
+- SQL TSQL
+- Entity Framework
+- LINQ
+- jQuery
+- Javascript/Ajax
+- Bootstrap / JSon
+- Team Foundation, VS SourceSafe
+- Web API/Windows Service (a plus)
+- Mobile Application Development (a plus)
+- Good Team Player

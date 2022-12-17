@@ -1,0 +1,50 @@
+kadir.arslan0110@outlook.com
+wr0110@Jupiter
+
+
+
+I'm Kadir Arslan, and I reside in Istanbul, Turkey.
+I am a senior Full Stack Developer with over 8 years of experience.
+ME*N | React | Next.js is my primary stack.
+I always look forward to collaborating with skilled web developers from throughout the world.
+
+I've been working with React for six years, and I have a ton of practical knowledge.
+I've mastered the whole React documentation and lessons.
+As a result, I am well-versed in the features that React offers, like React hooks, which add stateful logic to functional components, context, which is used to send data to the entire component tree, and HOC, which allows you to create new components from preexisting ones.
+
+In addition, I am always up-to-date on new React-related technologies.
+Additionally, I love Typescript and Javascript ES6/ES7, which I like to use for front-end and back-end programming.
+For many years, I have used front-end tools like Webpack, Rollup, and Vite in my work.
+I'm familiar with other JavaScript frameworks such as Vue, Angular.
+
+Also, I’m proficient in Redux.
+I have a deep understanding of the functionality Redux provides, how to make the reducers,
+and how to use them correctly.
+Recently, I’ve been using Redux Toolkit to write good applications and speed up development.
+I have a lot of hands-on experience building UI as a front-end developer.
+I love to use Tailwind CSS and Bootstrap as CSS frameworks and MUI, Ant Design, React Bootstrap, and Grommet as UI libraries.
+I’m very strong in all of them above.
+
+And I am proficient in GraphQL.
+Recently, I've been enjoying using GraphQL to implement APIs.
+I think it’s very useful because there’s no over-fetching and under-fetching problems.
+Of course, for this reason, it’s faster than any other communication API.
+
+I’m very strong in Next.js.
+In other words, I know each and every feature of Next.js.
+About pages which Next.js provides, layout, how to customize an app, document or error
+page, how to use getInitialProps effectively.
+
+In addition, I'm familiar with Google Cloud Platform and AWS.
+
+Moreover, I have developed some NFT minting projects, NFT staking projects, token staking,
+and farming projects, so I am very familiar with erc721, erc20 smart contracts, solidity,
+remix, truffle, opensea, and react frontend development.
+
+Then, I’m always available for your technical interview, and I have confidence that I can
+pass the interview.
+
+If I work with you, you’ll always be happy with my work.
+I'll be waiting for a positive reply from you.
+Best regards,
+Kadir

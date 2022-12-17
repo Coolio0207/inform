@@ -1,0 +1,41 @@
+I am a DevOps Engineer having 5 years of experience in AWS with a professional attitude who works with dedication and is always ready to accept challenges. I have worked on various projects with international clients and diverse teams with the One-Team model following agile methodologies like Scrum and Kanban. I aim to lead innovative projects and deliver the best services in Cloud Computing globally.
+
+I have experience in:
+1. Writing Infrastructure as Code and provisioning it in AWS cloud using CI/CD practice.
+2. Building CI/CD pipelines to deploy code artifacts from different code versioning tools e.g. Github.
+3. Building and deploying docker images to AWS cloud.
+4. Deploying Lambda and API Gateways using Serverless Framework.
+5. Executing Infrastructure deployment in multi AWS accounts using Service Catalog Portfolio and Products strategy and Assume-Role functionality via CI/CD pipeline stages.
+6. Performing custom processing in Infrastructure scripts using AWS CloudFormation Macros.
+
+AWS Cloud Skills set:
+• Creation of IAM Users, Groups, Roles, cross-account assume roles, Policies and fine-grained access control
+• EC2, Bastion Host, and Security Groups
+• S3 buckets, bucket policies, and triggers, cross-account bucket access
+• Lambda, serverless computing, lambda packages, and deployment
+• ECS clusters, tasks definitions, services, ECS fargate
+• CloudFormation templates, stack creation, and updating
+• Creation of VPC, Subnets, Routes tables, NACL, NAT gateways, internet gateways, VPC Endpoints, and peering
+• RDS clusters and instance creation, schema deployment into RDS
+• CloudWatch metrics, events, rules, and alarms
+• SNS notifications, topics, and subscription
+• SQS queues creation and trigger policies
+• Auto Scaling with simple and step scaling policies
+• Creation of Elastic, Application, and Network Load Balancers and end-to-end secure communication with SSL certificates
+• Code Pipeline, Code Commit, Code Build, Code Deploy
+
+DevOps tools Proficiencies:
+• Infrastructure Automation: Terraform, CloudFormation, Serverless Framework
+• CI/CD Implementation: Terraform Cloud, Jenkins, CodePipeline
+• Containerization & Orchestration: Docker, AWS ECR, AWS ECS
+• Monitoring & Logging: Cloudwatch
+• Scripting & Automation: Python, Bash
+
+Agile Methodologies:
+• Git
+• Scrum
+• Jira / Kanban
+• Slack
+
+Achievements:
+• AWS Certified Developer Associate

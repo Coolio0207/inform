@@ -1,0 +1,2 @@
+✔ Python, Web Development (Django, Flask)
+✔ Django CMS, Django Oscar, Wagtail (django)

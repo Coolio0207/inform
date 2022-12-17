@@ -1,0 +1,5 @@
+For the NFT dApp, I keep 4 steps to complete the project.
+1. Generate NFT arts based on image layers
+2. Build NFT dApp website using Figma or reference sites
+3. Write, audit & deploy the smart contract for NFT functions and utilities.
+4. Integrate website with smart contract and launch it on the mainnet.

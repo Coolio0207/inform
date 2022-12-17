@@ -1,0 +1,37 @@
+Full Stack developer(React + Django / Node.js / Spring)
+
+I am a creative and talented full-stack developer with over 8 years of experience in industry.
+Also I have 2 years DevOps experience.
+
+- Worked with advanced web and mobile app development technologies like React, Next.js, React Native, Node.js, Express, Gatsby.js, Firebase, MongoDB, MySQL, JavaScript, ECMAScript 6, TypeScript, Immutable, PHP, GraphQL, JSON, AJAX, RESTful Services, Webpack, Bootstrap, HTML, and CSS.
+- Extensive experience with JavaScript design pattern, and structured JavaScript.
+- Used JavaScript DOM manipulation, DOM functions, DOM events, DOM collection, and JavaScript event to generate the data result in UI.
+- Proficient in developing Single Page Application (SPA) using JavaScript.
+- Used React concepts like JSX (JavaScript Syntax Extension), components, state, and props.
+- Experienced in creating Custom Reusable ReactComponents Library.
+- Used Middleware, Redux in application to retrieve data from Back-End and to perform RESTFUL services.
+- Experienced in working with third party web services APIs and Web Services using AJAX for Dynamic form generation, Auto completion of forms, and user-validation functionalities.
+- Used Jest and MochaJS for mocking functions and writing unit tests.
+- Good experience in using Git, CI/CD pipeline, and SVN.
+
+Let's work if you are looking to get done anything from:
+
+- React / Next.js / Gatsby.js
+
+- React Native
+
+- HTML / HTML5 / CSS / SCSS / LESS
+
+- JavaScript / jQuery 
+
+- Tailwind CSS / BootStrap
+
+- PHP / Laravel
+
+- Python / Django
+
+- Java / Spring / Hibernate 
+
+- Third-party services integrations
+
+- Kintone / Ghost experienced

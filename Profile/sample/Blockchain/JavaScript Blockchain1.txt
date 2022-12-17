@@ -1,0 +1,56 @@
+Expert-level developer with more than 12 years of development experience. I'm capable of handling much more complex code and working much faster than the vast majority of software developers.
+
+I provide end-to-end services for Individuals, Startups, Enterprise and Government clients looking to Design, Build and Launch Innovative Software Solutions using Blockchain Technology. If you are looking for the most accomplished blockchain consultant here on Upwork, you have come to the right place.
+
+Blockchain Development Services:
+
+→ Custom Blockchain Development
+→ Smart Contracts Development, Solidity, Rust, Substrate etc
+→ NFT Development
+→ NFT Marketplace Development
+→ Custom Cryptocurrency/Token Development
+→ Crypto App Development
+→ Wallet integration, Metamask, Coinbase Trust etc
+→ ICO Web Development
+→ Proof of work POW, Proof of stake POS Development
+→ Cryptocurrency Wallet and Exchange Applications
+→ dApps Development
+→ Crowdsale
+→ Hyperledger & Multichain Development
+→ Multichain/Supply Chain Development
+→ Private Blockchain Development
+→ Metaverse Development
+→ Blockchain Consulting
+→ Blockchain Testing
+→ Ongoing Blockchain Development Support and Maintenance
+→ Trading bots for the BTC-E exchange
+→ Interfaces to ripple, bter and mtgox to gather market data
+→ Study parts of the bitcion, ethereum, peercoin, memorycoin and bytecoin source code
+→ Setting up p2pools for altcoins
+→ PoW mining algorithms (including those from bitcion, litecoin (scrypt) and primecoin)
+→ OpenCL/GPU implementation of the bitcion and litecoin mining algorithms
+→ Cryptocurrency exchange development involving communication through the RPC-JSON interface to monitor withdrawals and deposits of bitcion and other compatible altcoins, as well as the equivalent for NXT
+
+→ Branding UX/UI
+Adobe XD, Figma, Sketch, InVision Studio, Marvel, Photoshop, Illustator, After Effects, Premier
+
+→ Front-End Stack:
+React.js, Vue.js, Next.js Angular,js, Electron.js, Webpack, Bootstrap, Material UI Design, HTML, HTML4, HTML5, CSS, Javascript, J Query, CSS3, Tailwind, Ant-Design Strapi, WordPress
+
+→ Back-End Stack:
+PHP, Java, Node.js, Redis, Ruby on Rails, Python, Django, Rust, Laravel, Express, Loopback, Meteor, Elixir, Phoenix, Golang, Flask, Firebase, AWS Lambdas, GCP Functions, ASP.NET, C++, VHDL, Swift, Objective-C, Haskell, Asm, C, Pascal, Delphi, CoffeeScript
+
+→ Databases:
+MS SQL, MySQL, MongoDB, Postgres, Casandra, CouchDB, Elasticsearch, Neo4j, ArangoDB, Kalka, SQS, ZeroMQ, RabbitMQ, Firebase, AWS RDS, GCP Bigquery, GCP Bigtable, AWS Redshift.
+
+→ DevOps:
+NGINX, AWS, Azure, ELK, Ansible, Chef, Jenkins, Dockers, Bladacenter, Kubernetes, Vagrant, VMWare, GCP, Heroku, Kubernetes, Gitlab, CircleCI, Puppet
+
+→ Third-Party APIs Integration:
+Payment Gateway: PayPal, Stripe, Authorize.Net, Coinpayments.net, Geo-location: Google Maps, Bing Maps, File Storage: Dropbox, Google Drive, Social: Facebook, Twitter, Google+
+
+→ Libraries/Technologies:
+Redux, Nginx, Apache, Websockets, Browser extensions/add-ons, webp, vorbis, flac, theora, vpx, ogg, png, zip, z, gmp, freetype, cgicc, magick, bitcion, p2pool, CImg, OpenCL, OpenGL, OpenGL ES, OpenSLES, Core Audio Services, MPI, POSIX, iOs Camera Recording, Google Maps, Qt, GPU, FPGA, fabric (js), bitcion, ethereum, monero, Arrayent Internet-of-Things (IOT) cloud API, Cryptocurrency Exchange APIs, Websockets, Backbone.js
+
+→ Platforms:
+Linux, OS X, iOs, Android, Windows (3.1, 95, XP, NT, 2000, 8, RT), LAMP

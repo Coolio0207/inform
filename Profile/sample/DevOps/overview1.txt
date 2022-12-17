@@ -1,0 +1,29 @@
+DevOps Engineer with a strong programming background!!!
+
+Full Stack developer for 5 years.
+
+With experience of 2+ years in Information Technology I have been working on many Development and DevOps projects. I've worked on numerous infrastructure projects for startups, small and large businesses around the world, I also have completed Systems Administration tasks.
+
+Over these years I have improved myself professionally while working on fast paced environment with a wide range culture in a multi functional team. I had the opportunity of using a variety of programming languages to create scripts for cloud architecture. My core competency lies in AWS management and support, automating deploys to improve and maintain large scale AWS infrastructures.
+
+
+I also have experience in following tools and technologies:
+
+• CI/CD
+• Docker
+• Jenkins
+• DevSecOps
+• Amazon Web Services (AWS): EC2, ECS, S3, IAM, Lambda, Route 53, CloudFront, CloudFormation, RDS, etc;
+• Automated Tests
+• Architecture Solutions
+• Terraform
+• Kubernetes
+• Ansible
+• Apache, Tomcat and Nginx
+• Git/SVN
+• Linux (Ubuntu/RedHat/CentOS)
+• Bash Script
+• Powershell
+• SQL/ NoSQL
+• Programming Languages (Python, Java, PHP, NodeJS, Ruby, JavaScript)
+• Network Protocols

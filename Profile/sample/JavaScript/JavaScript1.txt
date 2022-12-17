@@ -1,0 +1,24 @@
+Hi there!
+
+I am a full-stack web developer and UI/UX designer with several years of professional experience.
+
+I use the most cutting-edge technologies to create fast, sleek, responsive, SEO-optimized marketing/e-commerce websites and web apps. I have extensive experience with JavaScript, TypeScript, React, Node, and popular modern frameworks such as Next.js and Gatsby. I also have plenty of experience working within popular design tools such as Figma and Sketch.
+
+I have partnered with people on all types of projects, such as:
+
+- modern companies looking to expand their online presence and generate leads
+- SaaS startups looking for a marketing website that converts, and/or a developer to work on their application
+- DTC brands looking to create seamless shopping experience for their users
+
+
+A few of my specialty areas:
+
+1) Website design and development for individuals and companies that want a high-fidelity, fast, modern, app-like feel for their sites, with perfect SEO implementations and the ability to seamlessly edit and add to their site's content via Content Management System.
+
+2) Custom e-commerce sites where custom branding, site speed, and SEO are paramount.
+
+3) Design and development of web applications using modern frameworks.
+
+The ideal project for me is one where we are put the work in early to establish a strong design and vision, then maintain strong communication to ensure an amazing result on a deadline that works for you.
+
+Feel free to get in touch!

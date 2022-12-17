@@ -1,0 +1,11 @@
+The main reason to go with Jamstack instead of a traditional approach to website development is to go as server-less as possible. That means taking away as many tasks as possible and pushing them to the client instead to enable fewer server requests and thus better performance and faster load times.
+
+The only way to do that is to think of the tech stack in a different way than previously. The classic way of talking about a tech stack is to mention operation systems and databases.
+
+With Jamstack, you focus on a different level of the tech stack: the level that is actually the real constraint on a project.
+
+These constraints boil down to the 3 core parts:
+
+JavaScript as the universal runtime layer in the browser to add extra functionality and dynamic behavior.
+APIs to replace the database and fetch everything you need directly from the services required.
+Markup to serve the actual website content and HTML needed.

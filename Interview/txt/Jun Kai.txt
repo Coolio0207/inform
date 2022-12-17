@@ -1,0 +1,110 @@
+Grey Techno Systems
+
+Phone +8188-839-5813
+Country Japan
+City Osaka
+Address 5-18, Nishi Nakajima 4-chome, Yodogawa-ku, Osaka, Osaka
+Postal Code 532-0011
+Driving License
+Nationality Japan
+Place Of Birth Higashiosaka
+Date Of Birth 1991-4-20
+
+I have been in the software development for over 9 years, primarily focusing on web & blockchain development.
+I've been through several roles in different companies, mobile deveploer, front-end, full-stack developer, smart-contract, blockchain developer.
+My most recent role was working as a blockchain developer at Misuki. I was responsible for developing web sites and smart contracts and deploy them to blockchain network. But 80% of my work at Misuki was web development and the other 20% was blockchain. So my real role was full stack developer.
+
+My full stack experience has allowed me to apply as a senior-level employee at a tech startup like yours. I hope to see myself progressing to a senior developer position where I can prove my skills. I also aim to be more hands-on in the startup space which is why I’m super interested in the full stack developer position with your company.
+
+
+100k-120k
+Job description
+Relevant experience and abilities:
+
+1. Software engineer generalist familiar with wide-range of technologies, who chooses appropriate tools and design patterns to solve complex problems, producing simple and reliable application architectures.
+Agile methodologies
+2. Fluent in JavaScript, HTML, CSS and modern web development practices.
+3. Expert with the full application stack
+4. React, Angular, Vue, or other modern frontend frameworks.
+SPA
+React v18
+Redux It allows React components to read data from a Redux Store, and dispatch Actions to the Store to update data. Redux helps apps to scale by providing a sensible way to manage state through a unidirectional data flow model.
+
+Saga and thunk
+Saga works like a separate thread or a background process that is solely responsible for making your side effects or API calls unlike redux-thunk, which uses callbacks which may lead to situations like 'callback hell' in some cases. However, with the async/await system, this problem can be minimized in redux-thunk.
+
+Hooks
+Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class. Hooks are backwards-compatible. Functional components.
+
+Angular v13.1.1
+Two way data binding
+Observables
+Observables provide support for passing messages between parts of your application. They are used frequently in Angular and are a technique for event handling, asynchronous programming, and handling multiple values.
+
+RxJS introduces Observables, a new Push system for JavaScript. An Observable is a Producer of multiple values, "pushing" them to Observers (Consumers). A Function is a lazily evaluated computation that synchronously returns a single value on invocation.
+
+Vue.js v3
+Vue is lightweight and easy to ]write. Owing to its use of components and familiar templating syntax, migrating or integrating into current projects to Vue. js is smoother and faster. Hence, Vue is an excellent choice for start-ups but can be utilized in large-scale apps.
+
+5. Node, Rails, Django, or similar backend frameworks.
+Node
+Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.
+Rails -Ruby on Rails
+Django - Python framework
+Laravel - PHP
+
+6. PostgreSQL, MySQL, or other database technology.
+7. Experienced with developer operations: release management, testing, monitoring.
+8. Familiar with key web technologies: DNS, TCP/IP, HTTP(S)
+9. Upper-Intermediate level of English
+
+Responsibilities:
+
+1. Create beautiful user experiences, delivering the end-to-end implementation all the way to the user.
+2. Engage directly with our clients to understand requirements, give demos, and debug production issues.
+3. Learn fast and work independently and reliably.
+
+
+What we offer:
+
+Exposure to high-profile startups / big companies in Silicon Valley
+Work on challenging projects with sophisticated requirements, and lots of traffic
+Flexible work hours
+Personal development and professional growth
+Top-of-the-market salary
+Personalized workstation
+Paid vacation and holidays
+We prefer to pay in crypto on weekly basis
+✓
+
+"Failure will never overtake me if determination to succeed is strong enough."
+George Barkin - Los Angeles Times Newspaper editor
+CTO Bukalapak
+
+How much do I get paid in trial period?
+When can we start work?
+How many candidates are there?
+
+Hello, My name is Kai and I'm really appreciated that you gave a chance to your company.
+You know every softdeveloper meets challenge when they're develop a project, sometimes they struggle with complex challenges and even sometimes they're failed.
+In my last position, I once developed a dApp that was stacking and unstaking NFT app which I developled with React.js Web3.js and solidity for smartcontract but I after built and deployed smart contracts I recognized that I missed about hack problem solidity. Reentrancy Attack
+The Reentrancy attack is one of the most destructive attacks in the Solidity smart contract.
+
+But at that moment, I was new to reentrancy attack.
+To solve this problem, I took a deep research on the Internet. 
+About How does reentrancy attack work.
+And figure out how to protect smart contracts against reentrancy attack.
+
+With this researching, I redeveloped solidity smart contracts using function modifiers to prevent reentrancy.
+
+What I'd like to say is that most complex challenges come out when you don't have strong experience in those fields.
+But if you have passion to learn new technologies, spirit to dig out something, you can easily overcome any kinds of challenges.
+Thanks.
+
+
+
+
+
+
+
+

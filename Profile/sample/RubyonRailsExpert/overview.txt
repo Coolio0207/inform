@@ -1,0 +1,33 @@
+I am a seasoned engineering manager and full-stack developer with 8+ years of experience in software engineering primarily working on RoR,  and JavaScript frameworks.
+I have solid expertise in building web applications, data pipelines, advanced reporting and analytics systems, and data science functions for different domains like payments, fintech, telecom, and utilities. 
+I also have relevant management skills, having built and managed large and small teams with five to over twenty engineers.
+
+My Skills Summary:
+
+Languages
+✔ Ruby, CSS, HTML, JavaScript, TypeScript, ECMAScript (ES6), React, Angular, Vue.js, Svelte, GraphQL , Tailwind CSS , SCSS / SASS
+
+Frameworks
+✔ Ruby on Rails (RoR), MERN , MEVN , MEAN , Elixir in Phoenix , SvelteKit , Vite
+
+Libraries/APIs
+✔ Google APIs, Google Maps API, Google Maps, REST APIs, Sidekiq
+
+Tools
+✔ GitHub, Git, CircleCI, Auth0, Jenkins, Amazon CloudFront CDN, Figma, WebStorm, IntelliJ, RubyMine
+
+Paradigms
+✔ MVC Design, Object-oriented Programming (OOP), Agile, Unit Testing, Behavior-driven Development (BDD)
+
+Database
+✔ MySQL, PostgreSQL, MongoDB, Redis, JSON, Amazon S3 bucket (AWS S3), NoSQL , Firebase 
+
+No-Code database
+✔ Airtable , Knack , Baserow.io, Kintone , Caspio , Airpower , Notion
+
+Website Platforms
+✔ Docker, WordPress, Google Cloud Platform (GCP) , Azure  , Ghost CMS , Webflow , Shopify , Bubble.io 
+	Zapier 
+
+others
+✔ Docker , Amazon Web Services (AWS)

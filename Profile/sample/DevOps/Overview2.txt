@@ -1,0 +1,22 @@
+I have 6 years working experience in DevOps, Cloud Solution Architect, and System
+Network Administrator, over 4 years to be a DevOps Lead for many kinds of projects. Having really high passion for network construction, network management, deployment management...
+
+*Strong experience with development.
+
+- Having excellent experience with cloud solution architect (AWS, GCP).
+- Having excellent experience with Kubernetes Deployment, Microservice Architecture,
+Docker Deployment, Microservices Deployment, Mobile Deployment, Infrastructure as
+Code (IAC), Application Performance Monitoring/Management (APM), Managing source
+code, Automated testing, Security, Firewall…
+- Having In-depth Knowledge of DevOps toolkits: Terraform, Jenkins, CircleCI, GitlabCI,
+Ansible, Vault, SonarQube, Nexus, Jfrog, Kafka, Zookeeper, ELK, Datadog, Grafana,
+Prometheus, Alert Manager, Slack integration, HockeyApp, Fastlane, Checkpoint …..
+- Building, administering, maintaining CI/CD, Dev, QA, Staging, Production environments
+… on both Cloud and On-premise.
+- Taking high responsibility to design, monitor, and manage the production environment for
+many kinds of projects.
+- Managing time and working well under high pressure.
+- Analyzing and resolving problems, well-organized skills, and setting priorities.
+- Be able to read and understand English documents
+- Assisting clients, colleagues and handling multitasks simultaneously
+- Provide technical support and assist developers and testers in those environments.

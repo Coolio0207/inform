@@ -1,0 +1,186 @@
+Kristine Vik Andresen sent an offer
+
+ 9:54 AM
+Hi,
+
+
+
+I need a python script that will cancel an NFT-listing on Looksrare when it is run and after the listing is canceled, it relists the NFT for sale.
+
+
+
+I can write the rest of the code myself, but I can't figure out how to do this bit.
+
+
+
+I want to avoid using selenium, and want the code to be connected to looksrare API to send the transaction/signed message with web3.py.
+
+Thank you
+
+Est. Budget: $100.00
+
+Milestone 1: Python code to cancel and make NFT-listings on looksrare
+
+Amount in escrow: $100.00
+
+View details
+Perfect. I have sent you a proposal
+
+This account has a worthless NFT that can be used to list and delist in the script. I will transfer some gas money.
+
+
+
+0x10A073241427Bf63DBbddee4da2f5eCFa8C91Bd0
+
+
+
+secret recovery
+audit thumb veteran energy puppy raven story peanut feel enact fever labor
+
+
+
+Private key:
+d250e91b58d892974c3fb69101408db7edfafb396abd7a640ecddf79b5106dfb
+
+
+
+https://looksrare.org/accounts/0x10A073241427Bf63DBbddee4da2f5eCFa8C91Bd0#owned
+
+When can it be done by?
+
+Walter Nino accepted an offer
+
+ 11:06 AM
+Great
+I will do my best
+
+View details
+Walter Nino 11:19 AM
+Tomorrow , I will send you.
+
+I accepted an offer.
+
+KA
+Kristine Vik Andresen 12:01 PM
+Tahnk you 🙂
+
+Walter Nino 12:11 PM
+Hi, Kristine Vik Andresen
+
+I would like to ask some questions to you
+
+Are you available to chat now?
+
+KA
+Kristine Vik Andresen 12:13 PM
+Yes 🙂
+
+Walter Nino 12:14 PM
+I thought looksrare api would be almost same as opensea/seaport
+
+so I guessed I can use sth like "cancelOrder" of seaport
+
+I have take a deep look at looksrare apis
+
+and I found out there is no cancel operation at the looksrare apis
+
+but I have a solution
+
+I think I can make a call to the exchange contract of looksrare
+
+Cool
+
+KA
+Kristine Vik Andresen 12:17 PM
+Yes, that should work. I just want to avoid selenium
+
+Walter Nino 12:17 PM
+Cool
+
+Is there any chance to take a look of your existing code?
+
+Or should I make my own code from scratch?
+
+KA
+Kristine Vik Andresen 12:19 PM
+I would like it from scratch please. A separate code and all that it does is to list the nft and then delists it when the code is ran.
+
+Here is the account with one nft that can be listed and delisted:
+
+
+
+0x10A073241427Bf63DBbddee4da2f5eCFa8C91Bd0
+
+
+
+secret recovery
+audit thumb veteran energy puppy raven story peanut feel enact fever labor
+
+
+
+Private key:
+d250e91b58d892974c3fb69101408db7edfafb396abd7a640ecddf79b5106dfb
+
+
+
+https://looksrare.org/accounts/0x10A073241427Bf63DBbddee4da2f5eCFa8C91Bd0#owned
+
+Walter Nino 12:20 PM
+Let me read your msg again
+
+Ok
+
+Btw, I cannot find pip module for looksrare
+
+There is only looksrare typescript sdk
+
+Can you let me know the looksrare python module?
+
+KA
+Kristine Vik Andresen 12:23 PM
+I have no idea how to do this, which is why I have posted this job. Maybe it can't be done without selenium.....
+
+I know how to do it with selenium myself, but wanted to avoid chromedriver since pravate key is involved
+
+Walter Nino 12:24 PM
+What about to use web3.js or ethers instead of web3.py?
+
+Your project is a python project?
+
+KA
+Kristine Vik Andresen 12:25 PM
+Yes, it's a python project
+
+But is it possible with web3.js or ethers?
+
+Walter Nino 12:26 PM
+Yes , javascript or python are both possible
+
+I will use web3.py
+
+no problem
+
+Let me clarify again
+
+KA
+Kristine Vik Andresen 12:28 PM
+great
+
+Walter Nino 12:28 PM
+I will make a script that will cancel listing when the nft is listed
+
+KA
+Kristine Vik Andresen 12:29 PM
+It should delist an active listing and then relist the same nft again with a different price
+
+Walter Nino 12:30 PM
+Got it
+
+When I have updates, I will let you know soon
+
+KA
+Kristine Vik Andresen 12:32 PM
+Thank you 🙂
+
+Walter Nino 12:33 PM
+💪

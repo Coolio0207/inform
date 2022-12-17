@@ -1,0 +1,27 @@
+
+I am having 8+ year's of experience and core expertise to work in web and mobile applications in a variety of industries, ranging from startups to enterprises. I got my start working as a developer to work . Since then, I have progressed to building and working with large, highly-customized and integrated platforms, becoming an expert in full-stack development. I have also had the opportunity to work extensively with many other frameworks and API's. I excel at meeting goals, making deadlines and consistently challenging myself to learn new things. I am both detail and goal oriented and thrive in a fast-paced environment.
+
+I do have core expertise in design and developing websites & Mobile Phone Applications for SMEs , mid-sized and enterprises. I got my start working as a developer and did very hard to develop small and large application with highly customized and integrated platforms as long as I want be an expert in full stack development. I have also got the opportunity to work extensively with the other frameworks , mobile app , API's and database architecture. I always believe to meet the goals, making deadlines and ready to take the challenges myself to learn new things time to time.
+
+I do have experience of working with global, high-performance and data-intensive companies and we assist businesses such as yours to turn into a Brand on the web. Some of our services that we provide:
+
+• Corporate Website Design/Development
+• Personal Blog Development
+• eCommerce Website Development (Sell Products Online Faster & Easy)
+• Mobile APP Development (iPhone, iPads, Android Phones & Tablets)
+• Games Development (Mobile & Web)
+• ERP & CRM Customization
+• Software Development (Desktop & Mac)
+
+My technology summaries are as follows:
+
+✔ Front-end Skills: React.JS, Angular.JS, VUE.JS, Redux , Javascript/jQuery,
+HTML5, CSS3, Bootstrap,
+✔ Back-end Skills: Node.JS, PHP (Laravel, Codeigniter, CakePHP, Wordpress, WooCommerce, Yii
+1.x&2), ASP.NET/C#
+✔ Database Architecture development, Optimization and Administration (MSSQL, MySQL,
+MongoDB, PostgreSQL .... )
+✔ Mobile application: Flutter, Ionic, React-native, Cordova, PhoneGap, iOS development,
+Android development, Native, SWIFT, JAVA/Kotlin
+✔ Other skills: API Development (Social Networking, Payment Gateway), Face recognition,
+OCR, Motion tracking, Logo detection), Real Time Firebase, AWS, Heroku, DynamoDB, Incognito,Amplify

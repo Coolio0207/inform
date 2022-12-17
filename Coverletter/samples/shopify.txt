@@ -1,0 +1,92 @@
+Beautiful shopify stores.
+https://www.breedingcage.com/
+
+
+skin shopify
+https://skinbyyouaz.com/
+
+
+using empire theme
+https://maggardrazors.com/
+https://store.alltech.com/
+
+Jewellery
+https://www.jewellerymakingcompany.com/
+
+Hello.
+As an experienced shopify expert, I am very much familiar with shopify themes(Chord, Forge, Athens, Mojave, Expression, Showcase)
+
+https://www.windsorstore.com
+https://www.lttstore.com
+https://www.altitude-sports.com
+https://www.dtlr.com
+https://us.princesspolly.com
+https://www.doitcenter.com.pa
+https://kitchencenter.cl
+https://www.culturekings.com.au
+https://silkandbubble.com/
+https://dealmice.com/
+https://www.fiestasmix.com/
+http://chippersoles.com/
+https://xtremenutrition.co.za/
+http://lekkco.com/
+http://theprayapparel.com/
+http://hudoca.com/en/
+
+
+-------------------------------------coverletter----------------------------
+Hi
+I have 11 years of experience shopify store development.
+
+🛒Shopify Store Development🛒
+👉Theme customization & Theme upgradation into 2.0.
+👉Convert figma designs into to shopify.
+👉Convert PSD/Sketch/Mockup/Wireframe to Shopify Store.
+👉Migrate e-commerce store from any another platform to Shopify.
+👉Setup Retail and Wholesale Shopify Store.
+👉Manage whole Shopify store from scratch.
+
+My prior experiences.
+https://pilgrimcollection.com/
+I manage to loop through products and do dynamic appearing on cart drawer with multiple conditions provided from the client. This is done on Shopify platform using liquid, html, css and jquery.
+I also developed cart drawer feature from scratch and did a lot of css stylings to it to make it look and function good on all devices/screens/browsers.
+The cart drawer is also now displaying multiple product info and displays different products once new ones are added/removed.
+I also implemented 10second timer on top.
+
+https://www.giovvani.com/
+Worked with a sustainable skincare company to sell using Shopify Plus and expand their global footprint. Helped with logistics for selling in multiple countries as well as maintain overall Shopify site based on KPIs and team deliverables.
+
+http://www.replugged.eu
+Musician website with integrated tool to add:
+- A page for upcoming gigs
+- Facebook Page news feed integration for updates
+- A concert page to listen and watch concert videos
+- A login-hidden song snippet page for venues
+
+https://www.simplychickieclothing.com/  (Redesign experience)
+A complete redesign for an existing children's fashion store, improving cohesive aesthetic and conversion rates.
+Redesigned :
+- Homepage
+- Product Pages
+- Collection Pages
+- Contact Us Page
+- Become a Wholesaler Page
+Feature Integrations:
+- Store Locator Map
+- Cross-Sell: Bundle Creator
+
+https://southernsaintvi.com/
+A minimal Shopify Store Set-Up from scratch, with POS integration (automatic inventory synchronization between offline retail store system and online store inventory). A custom font was installed as well.
+
+https://skinny.com
+I've designed, build UI and developed from scratch advanced web catalog for auto parts seller. The main goal was to achieve high level of convenience in searching products and composing orders. Within the project we've also created naming, logotype and corporate style of the brand.
+
+👨🏻‍Shopify App Integration and Development👨🏻‍
+➡️ Experience in building apps in different technologies like Codeigniter, YII and Laravel.
+➡️ Set up webhooks for Product, Customer, and Order.
+➡️ Integrate code into Shopify template to set up and install the app.
+➡️ Build Shopify private app based on client needs.
+➡️ Sync Shopify data with any other platform and vice versa using API.
+
+I can start work right away and I will do my best for you.
+Best Regards.

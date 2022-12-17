@@ -1,0 +1,23 @@
+Hello,
+
+My name is Yonatan, and I am the former CTO of "don-key.finance"
+
+My skills:
+
+-Solidity development
+-Working with hardhat
+-Working with truffle
+-Working with BSC/MATIC/ETH/ any ERC20 based network
+-Creating ERC20/ERC721 contracts and tokens
+-Planning and managing project architectures
+-Managing developer teams
+-Planning and managing working in a time plane
+-Writing web3 test
+-Writing web3 code
+-Writing web3 deploy scripts
+-NFT and ipfs development
+-Solana and rust development
+
+You can find me in "don-key. finance" under the Team page
+
+I will be happy to make your solidity project come true

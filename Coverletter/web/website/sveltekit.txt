@@ -1,0 +1,31 @@
+I have gone through your job post carefully and analyzed that you are looking for someone to work on Sveltekit stack platform.
+Sveltekit has developed recently but I have a good understand and have a good experience in Sveltekit and I think I can give you big help.
+I am highly interested in the job that you offering and I am confident that I can handle this project.
+
+Please take a look at few URLs below to see some of the website developed by me:
+https://bestofsvelte.com/
+There, I implemented "Event Calendar" ,"Svelte Splitpanes".
+Warm regards.
+
+
+How many experience do you have with Sveltekit ?
+https://bestofsvelte.com/
+There, I implemented "Event Calendar" , "Svelte Splitpanes".
+
+------------------------------------------------
+
+Dear , sir !
+Your post grabbed my attention mostly as this seems to be an ideal opportunity for both of us.
+I see from your requirements you are looking for a SvelteKit expert who can help you.
+I am an experienced SvelteKit developer with over 6 years experience .I started studying and developing when the Svelte was first born in 2016.
+I am certainly sure I can help you with your requirements.
+
+Here are my projects.
+templatemonster.com.
+bestofsvelte.com ( here I implemented Svelcro and Flowbit-svelte )
+
+*******************************************************************************
+-The Svelte is also good but it doesn't have as much flexibility as React. Data must get updated in real DOM structure. However, the real DOM allows Svelte to provide a faster user experience compared to React thanks to proper optimization. So the lack of a virtual dom diffing does not stop it from being useful.
+-write less code , no virtual dom , Truly reactive
+
+*******************************************************************************

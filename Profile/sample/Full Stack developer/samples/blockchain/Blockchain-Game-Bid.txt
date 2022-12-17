@@ -1,0 +1,85 @@
+
+Your job really caught my eyes.
+I'm posting this proposal after read your job description very carefully.
+
+I have blockchain NFT game development with 3 years and unity with 1 year.
+
+I am a Full-stack Blockchain developer with 5+ years of development experience. 
+Including the crypto exchanges (P2P, CEX & DEX), blockchain forks, tokens creation (ERC-20, ERC-721 NFT), 
+smart contracts, web3.js, ICO, Defi, and Ethereum, Solana and Cardano.
+I specialized in smart contracts for minting with special features 
+such as presale, burn, white/black listing & royalties. 
+
+https://www.sandbox.game/en/snoopdogg/(Frontend+Smart Contract+integration with game)
+https://www.medabots.io/ (Frontend+Smart Contract+integration with game)
+https://sollemurs.com (Frontend)
+http://cryptoracing.vip/#(Fronend)
+https://dogedash.com/ (Frontend+Smart Contract+integration with game)
+
+Over the years I have also created many custom NFT projects for different clients in different Blockchain networks, Ethereum BSC. 
+I have extensive experience working with high-speed, efficient logic. Due to my extensive knowledge in this area, I could complete the job quickly, easily and bug-free.
+
+Main experience in blockchain
+- Ethereum, Solana, Binance Smart Chain.
+- Defi, DEX, Gambling, Token building, ICO, DAO, Presale.
+- ERC20, ERC721, ERC1155, BEP20.
+- Web3, Solidity, Rust.
+- NFT marketplace.
+- Trading Bot(Arbitrage, Trend Following, Market Making, Sniper FrontRunner Bot).
+-Frontend development (React.js, Vue.js, HTML, CSS, JavaScript)
+
+Main experience in Game development
+Games (Unity/Unreal/Blockchain):	
+- Play-to-earn games
+- 2D/3D Games
+- VR/AR Games
+- Endless Games
+- Strategy Games
+- Application-based Games
+- PC Games
+- 3D Modeling and Animation
+
+Hope we can work together.
+Have a great day ahead
+
+Best Regards
+
+---------------------------------------------------------------------------------------
+
+what plans do you have about your project?
+So can you explain about the relationship with casino and sports video game.
+
+completion of game?
+1.design? Do you have design to build your project? 
+Could you explain more about design of your project?
+2.-meanwhile I am going to build the gaming site.
+3.what framework are you going to use to build the frontend of your project?
+Do you have smart contract requirements?
+I can make integration of front-end and smart contract with web3.js
+Full Stack?
+I can complete your project within 2 weeks.
+
+
+-deadline highlighted
+   This is an urgent project, right?
+  Mind if you discuss the price/
+Ok, how do you feel the deadline is delayed a little? 
+-budget discussion
+I am afraid I hardly move with less than $1000/loyalty price.
+It is against my business rule.
+By my business rule, I only welcome to be paid in cash for my work.
+
+-explanation
+
+I built the front-end with React framework according to design.
+And then I built the smart contract 
+integration of front end and smart contract with web3.js
+backend- php: laravel,
+         node.js python
+
+
+
+
+
+
+

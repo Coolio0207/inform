@@ -1,0 +1,128 @@
+hotwire/turboframe/stimulusJS
+
+https://reverb.com/ (Marketplace. React, Ruby on Rails)
+https://betterstacks.com/ (React, Ruby on Rails)
+
+
+1) EZOfficeInventory https://ezofficeinventory.com
+EZOfficeInventory is one of the Leading cloud-based asset-tracking software. It provides features for work orders, maintenance, purchase orders, and label scanning. This product is used by Microsoft, Amazon, Stanford University, Netflix, ICC, and many others.
+There, I worked as a Full Stack developer.
+
+2) EZRentOut https://ezrentout.com
+EZRentOut is a rental business management solution that helps to provide you with an end-to-end solution for Rental Business management.
+There, I took part in developing backend using Ruby on Rails.
+
+3) Experfy (Harvard Innovation Lab) https://www.experfy.com/
+The Experfy platform enables the pipelining and hiring of external talent at unprecedented speed, while career pathing, upskilling, and mentorship of your internal talent. License our self-service platform or hire SME-vetted talent from our TalentClouds.
+Full Stack RoR project. Database: PostgreSQL
+I had developed Frontend and Backend using Ruby on Rails.
+
+4) Social Health Network (Formerly WEGO Health) https://www.wegohealth.com/
+WEGO Health connects companies to millions of engaged health consumers by activating its trusted network of patient influencers for research, recruitment, collaboration, and activation.
+Full Stack RoR project:
+There, I developed frontend and backend from scratch to the end.
+
+5) ebooks Network https://www.scribd.com/
+Scribd gives you access to millions of ebooks, audiobooks, magazines, podcasts, and more — all in one place, for one price.
+Frontend: React , Backend: Ruby on Rails, Database: PostgreSQL
+There, I took part in developing backend using Ruby on Rails.
+
+6) Steel Marketplace Felux https://www.felux.com/
+Felux was established by a group of steel and technology experts with one mission – create the world's largest operating platform and marketplace to help solve commerce for the steel industry
+Frontend: React , Backend: Node.js, Database: MongoDB
+There,  I took part in developing Frontend using React. 
+
+I can dedicate as much as 40+ hrs/week to you.
+I am looking forward to hearing from you for further process.
+Regards
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
+Dear Client.
+I am an experienced Ruby on Rails developer with over 6 years of experience.
+So far, I have developed over 20 project using Ruby on Rails and JavaScript frameworks.
+I am very much familiar with dry-rb, Gem, RVM, Hotwire and Sidekiq, Stimulus/Turbo
+
+- An experienced full-stack developer with 5+ years of development experience.
+So far , I worked as a Full-stack , front-end , back-end developer.
+There, I worked as a backend developer for 6 years , Frontend developer for 6 years (JavaScript frameworks), Full Stack developer for 8 years(Ruby on Rails).
+- Have 8+ years of hands-on Ruby on Rails development experience.
+I started my life with RoR , I have over 8 years of experience with Ruby on Rails.
+- Experience in relevant technologies: JavaScript (ES6) + any modern front-end framework (e.g React, Vue.js), SQL Databases (MySQL, PostgreSQL), Amazon AWS.
+I am very much familiar with javascript frameworks and SQL(MySQL , PostgreSQL) and AWS .
+please let me show you my certifications.
+Angular: https://www.hackerrank.com/certificates/81c7dfe83e7f
+JavaScript: https://www.hackerrank.com/certificates/dcd53ff86154
+Node: https://www.hackerrank.com/certificates/a9f56c50204c
+SQL: https://www.hackerrank.com/certificates/c2e77102f040
+React: https://www.hackerrank.com/certificates/4aba4e9ae7b0
+Angular: https://www.hackerrank.com/certificates/3ea036c406e3
+JavaScript: https://www.hackerrank.com/certificates/5e1cb47f4918
+SQL: https://www.hackerrank.com/certificates/8d9b63de2ce2
+
+
+1) EZOfficeInventory https://ezofficeinventory.com
+EZOfficeInventory is one of the Leading cloud-based asset-tracking software. It provides features for work orders, maintenance, purchase orders, and label scanning. This product is used by Microsoft, Amazon, Stanford University, Netflix, ICC, and many others.
+2) EZRentOut https://ezrentout.com
+EZRentOut is a rental business management solution that helps to provide you with an end-to-end solution for Rental Business management.
+3) AssetSonar https://assetsonar.com/
+AssetSonar is an IT Asset Tracking Application that allows you to track and monitor a variety of different assets including your macOS, Linux, and Windows Devices.
+4) Experfy (Harvard Innovation Lab) https://www.experfy.com/
+The Experfy platform enables the pipelining and hiring of external talent at unprecedented speed, while career pathing, upskilling, and mentorship of your internal talent. License our self-service platform or hire SME-vetted talent from our TalentClouds.
+5) Social Health Network (Formerly WEGO Health) https://www.wegohealth.com/
+WEGO Health connects companies to millions of engaged health consumers by activating its trusted network of patient influencers for research, recruitment, collaboration, and activation.
+
+🔥
+🔥
+🔥
+
+-------------------------------------------------------Ruby on Elixir----------------------------------------------------------------------
+Hi.
+I have gone through your job posting carefully and I am really interested in this job.
+As an experienced developer , I have extensive experience with Ruby on Rails, Elixir in Phoenix and JavaScript frameworks.
+
+-I am passionate learner and I can adjust and learn any tool in a reasonable time.
+
+-I have over 6 years of experience with Ruby on Rails.
+
+- Experience with javascript frameworks - Ember.js, React or others.
+I am a certified JavaScript expert.
+Angular: https://www.hackerrank.com/certificates/81c7dfe83e7f
+JavaScript: https://www.hackerrank.com/certificates/dcd53ff86154
+Node: https://www.hackerrank.com/certificates/a9f56c50204c
+SQL: https://www.hackerrank.com/certificates/c2e77102f040
+React: https://www.hackerrank.com/certificates/4aba4e9ae7b0
+Angular: https://www.hackerrank.com/certificates/3ea036c406e3
+JavaScript: https://www.hackerrank.com/certificates/5e1cb47f4918
+SQL: https://www.hackerrank.com/certificates/8d9b63de2ce2
+
+- Being well acquainted with good practices of building and maintaining Ruby on Rails APIs,
+I am very much experienced with building and maintaining Ruby on Rails APIs.
+
+- Having a solid understanding of modern component-based front-end frameworks,
+I have good understanding with this.
+
+- Writing nicely structured and efficient CSS,
+I am very much familiar with SCSS/SASS and Tailwind CSS.
+
+I can start work right now and I can dedicate as much as 40+ hours/week to you.
+I am looking forward to hearing from you for further process.
+Best Regards.
+
+What is my experience with Ruby and Elixir?
+Elixir is better than Ruby.
+Let me explain why.
+Ever since I first tried building projects with Elixir, I have come to appreciate how functional languages lead to a much more maintainable codebase. So apart from the large performance gains of shifting to Elixir from Ruby, the more valuable gain is in the way of maintainability of your code. This is due to stateless modules, state management being isolated into specific parts of your code, no complex class hierarchies, etc...
+
+When comparing Phoenix to Ruby on Rails, I find Rails a lot more bloated. It has provided a lot of 'conveniences' that are just not worth their costs in complexity. It takes a lot less to learn and understand Phoenix than Ruby on Rails. Phoenix follows the same principle of 'Convention over Configuration' and provides you with the scaffolding you need to immediately start building features for your web app. So far, it does just enough and does not do too much 'magic' as Rails does. It's a lot easier diving into the source of Phoenix than it is with Rails.
+
+
+--------------------------------------------------------Ruby on Rails experience-------------------------------------------
+https://myflashcards.co.uk/  (React, Ruby on Rails)
+This is flashcards website. users can register and upload their flashcards through import. It is fun system for children to learn their subjects and topics
+My role was a backend developer and I used Ruby on Rails for backend language.
+- Database design(Postgresql)
+- Authentication
+- User Role

@@ -1,0 +1,44 @@
+Hello!
+Delivering awesome looking responsive websites since 2015!
+With an emphasis on great UX/UI, I specialize in designing and developing sites that become a vital tool for your business success.
+
+I'm perfect for implementing a well-thought-out wireframe, but if you don't have one just give me your ideas and I'll bring them to life in the best looking way possible.
+
+I have a great knowledge of HTML, CSS, JavaScript, and Jquery. Combining those with my Webflow expertise I complete big and complicated projects fast and effective.
+
+I am also no stranger to graphic design software such as Adobe Photoshop, Adobe Illustrator, Adobe XD, Sketch and Figma as I’ve worked with them a lot.
+
+I am responsive and reliable, a trusted colleague and an efficient communicator.
+If you want a fascinating high-quality website then you have the right profile!
+I have an experience in developing in NFT marketplace, smart contract ERC720, ERC 721A, ERC1155, NFT token, and wallet app.
+
+
+My skill-sets:
+- Frontend:
+* React/Redux.js, Redux-Saga, Redux-Thunk, React-Bootstrap, Material-UI
+* Typescript, Next.js, Nuxt.js
+* Vue.js/VueX, Vuetify
+* Angular 1-9
+* PSD to HTML && Figma to HTML && XD to HTML, Bootstrap 4, Tailwind CSS, LESS/SASS/SCSS, Responsive UI
+
+- Backend:
+* PHP, CI, Laravel, Cake PHP
+* Node/Express.js
+* Python, Django
+
+- Blockchain:
+* Solidity, Rust, Solana
+* Smart contract
+* Web3.js, Ethers.js
+* Ethereum & Binance smart chain(BSC), Avalanche, Polygon
+
+- Mobile App:
+* Android, iOS
+* React Native, react native cli, expo cli
+* Ionic
+
+- Web Scrapping:
+* Python/Selenium, Node.js, PHP
+
+- Database:
+* SQL, MySQL, SQLite, MongoDB, MariaDB, PostgreSQL, NoSQL

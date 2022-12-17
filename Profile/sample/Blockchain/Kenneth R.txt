@@ -1,0 +1,35 @@
+Hi, welcome to my profile!
+
+I will create an NFT marketplace, smart contract ERC720, ERC 721A, ERC1155, NFT token, and wallet app.
+
+I  can handle smart contracts for multiple networks including:
+- Ethereum
+- Solana
+- BSC
+- Avalanche
+- Polygon
+
+I am able to implement NFT utilities and functionality such as:
+- Staking
+- Airdrop (Mint for someone)
+- Multiple wallets withdraw
+- Reserved NFT's
+- Merkle Tree
+- Burning
+- Minting
+- Whitelisting
+- Pre-sale
+- Approved For All
+- Royalties
+- P2E support
+
+Area Of Service:
+- Custom Blockchain Development
+- Smart Contract Development on solidity
+- Private or public blockchain
+- Backend Development
+- Frontend development
+
+Look forward to working with you.
+
+Thank you,

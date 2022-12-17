@@ -1,0 +1,7 @@
+Please let me explain about my previous project.
+This is a simple website that does auction on website.
+The title is "Fantasy Football Auction" and this is using Angular for frontend and Cloud Firebase for database.
+There, I used Angular version 10 and realtime firebase database.
+The problem was integrating ng and realtime database( There are two types of database in Firebase -FireStore and Realtime) and token generation.
+It took  a week to complete this project and the client(Tyler Weltzin) was fully satisfied.
+I am confident in Projects that are similar to my experience.

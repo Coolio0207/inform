@@ -1,0 +1,60 @@
+Please take a look at my past React Projects and experience.
+
+https://matruecannabis.com (React , Three.js ,  Firebase ,and  Bootstrap)
+This website is a shopping site that sells flowers, oil , Pre-Rolled, Refill and other discoveries.
+My client was from Switzerland and he wanted to finish this project within a month(basically - 2 weeks,  maintenance , bug fixing and updating - 1 week).
+But I finished this project within 14 days and he was satisfied.
+There, I used  React , Three.js ,  Firebase ,and  Bootstrap.
+The  special point of this website is full screen rendering and special animations of objects.
+Totally, there are 9 pages (admin page - 4 pages , user page -4 pages , dashboard - 1 page , modals(register , sign in , bag , search , language)).
+The most challenging part was the animation of objects. I implemented it using three.js.
+
+https://www.chaletretreat.com/ (React/Next.js + Node.js + MongoDB + Google Maps)
+This website aims to discover lakeside cabins, cottages nestled on mountain tops, shelters for skiers and lake floating cottages all across Canada.
+My Client was Canadian and this site was launched in 2021 and Chalet Retreat is now the largest stand-alone booking platform for short-term rental.
+
+
+https://www.felux.com/
+https://www.snappic.com/   next.js node.js
+https://www.leadjar.io/     react / next.js
+
+https://watertight.co/
+
+
+https://www.lawmatics.com/
+
+
+https://www.phonebounce.com/ (React, Node.js, MongoDB)
+users can call over the internet bridging physical and virtual phones
+
+https://www.pandiahealth.com/ (React, Ruby on Rails, PostgreSQL)
+providing a one-stop-shop for recurring medications. The ONLY birth control delivery company Led by a doctor,  bring convenient birth control delivery to users from the comfort of the user's home or wherever the user may be. 
+
+
+https://www.peddle.com/ (React, Node.js MongoDB)
+- Build the website from scratch
+- Built APIs and scalable backend features which handled hundred’s of requests per second
+- Developed large and interactive single-page web app using JavaScript ES6 and ReactJS/Redux
+- Optimized SQL query plans and database schemas to improve data extraction speed
+- Developed, integrated and unit tested REST services and customer portal components
+
+https://fabfred.com/ (React, TailwindCSS, Node.js, MongoDB)
+- Login with Email, Google, and Facebook.
+- Great Landing page with a nicely described the shop
+- Categorised services section
+- you can book a car wash in one click
+- Booked services tracking
+- interactive user interface
+- Mobile friendly
+- Fast loading
+
+https://www.ifit.com/ (React, Tailwind CSS, Ruby on Rails)
+-gain access to personal trainers, ab workouts, strength workouts, cycling classes, yoga classes, & more.
+-Upgrade the Front UI with styled components and optimize components for maximum performance
+-Some api development with NodeJS
+
+https://timetogowild.com/ (Next.js)
+Gowild is a free social media community & gear platform for outdoor enthusiasts.
+-Development some APIs and integrate them
+-Customize some upgraded UI and optimize components
+

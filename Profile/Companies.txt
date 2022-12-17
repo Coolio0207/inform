@@ -1,0 +1,118 @@
+Canada
+OSEDEA~Montreal , TELKOWARE~Brampton, ALTOROS~Pleasanton , 
+ThoughtWorks-Toronto , RootQuotient~Toronto, Evenset~Toronto
+GlossGenius, Cisco, Threekit, Canonical, ScalePad, Dealerware, lululemon, Motive, Varicent
+
+Ukraine
+Romexsoft~Oblast , Genesis~Kyiv , Axon~Kyiv , DevCom~Lviv Oblast,SYTOSS~Kharkiv Oblast ,Cprime~Dnipropetrovsk Oblast
+
+Australia		
+Emydex Australia Pty Ltd -South Brisbane , Axios - Adelaide , Teradata-Canberra , Shivam Technologies Pty Ltd - Adelaide , Codium-Bangkok  , Ebizco Australia Pty Ltd - Braddon , Saab Australia - Kingston , Synotive-Melbourne
+
+Brazil
+Aquarius Software
+
+Hexaware Technologies , inSided , BusyMachines , Amsterdam Standard
+
+Germany
+iTester Inc , Precise ,Hyland Software GmbH , Technosoft GmbH , 
+
+
+Israel
+Ericom Software Ltd. ,Galil Software
+
+Ukraine
+Binariks , Innovecs
+
+Ukraine
+indeema Software Inc-Lviv oblast , Abto Software-Lviv Oblast , Yalantis- Dnipropetrovsk
+
+Finland
+TestLab Finland Oy - Oulu , Vincit - Helsinki , BimOne Finland Oy - Haukipudas , Choicely Inc - Helsinki , Loihde Factor Ltd - Elektroniikkatie 2 , Boogie Software Oy - Oulu , EXFO Finland Oy - Oulu , Basemark -Helsinki , Synopsys - Oulu
+
+Netherlands
+OfferZen Developer Jobs Platform-Amsterdam
+Fraudio BV -Amsterdam
+insmart -Utrecht
+Mambu Tech B.V. -Amsterdam
+Evalan BV - Amsterdam
+DivByte -Hillegom
+LeanCode ICT - Schiedam
+CodingChiefs: Dedicated Remote Developers -Amsterdam
+
+Belgium
+Alan(Senior / Staff / Principal)  -Brussels
+,Siemens Digital Industries Software  -Brussels
+,iNow Europe(FrontEnd Software Developer (JavaScript) - Belgium remote) -Antwerp
+,iNow Europe(FullStack Software Developer JavaScript - Belgium remote) -Antwerp
+,DevsData LLC  -Antwerp
+,Vonage(FrontEnd Software Developer (JavaScript) - Belgium remote)-Brussels
+,Prophix(Senior Software Engineer Full stack (Belgium- remote))  -	Brussels
+,eighth(Full Stack Software Developer (remote)) -Ghent
+,Hopper(Senior Software Engineer) -Antwerpen
+,Prophix(Senior Software Engineer Full stack (Belgium- remote)) -Brussels
+,Vonage(FrontEnd Software Developer (JavaScript) - Belgium remote) -Brussels
+OneBonsai
+Qollabi
+Xorlogics Bvba/Sprl
+Optimact
+Symantra
+Montrium Europe SPRL Brussels
+
+Sweden
+Turing(Remote Python GUI Software Developer) - Stockholm
+Play'n GO(Software Developer) - Växjö
+Zenseact Sweden - Gothenburg
+Vonage(FrontEnd Software Developer (JavaScript) - Stockholm 
+Orange Cyberdefense Sweden - Sundsvall
+
+Norway
+FRG Technology Consulting(Frontend Developer - Remote) -Glassdor
+Hostaway(Remote Backend Developer) - Oslo
+VIERLIVE(Senior full stack developer remote) - Oslo
+AssemblyAI (YC S17) Senior Software Engineer, Python (Backend)-Oslo
+Metaito(Full-stack developer) - Trondheim
+
+Switzerland
+Cloudmaven ERP
+Luware AG
+Sun Microsystems - Bern
+Tensor Technologies AG
+Smartfactory AG
+SevenSprings Technology AG
+Synechron Technologies Switzerland GmbH
+
+USA
+Addepar
+Alianza
+Canopy
+CrownPeak
+Eccovia Solutions
+iCentris
+MetaStock
+
+----------------------------------------AI companies----------------------------
+KONUX German
+https://www.konux.com/
+KONUX is both an AI and the internet of things (IoT) company. It offers solutions to transform railway operations based on smart sensors and AI-based analytics to deliver insights in real-time and allow customers to better monitor their infrastructure and improve operations and costs. 
+========
+Owkin France
+https://owkin.com/
+Owkin offers a platform which uses AI techniques to discover biomarkers and mechanisms associated with diseases and treatment outcomes. The company combines cutting-edge machine learning and biology to identify novel drug candidates and blends human insight with safe and fast data access to power more accurate models.
+========
+Graphcore  UK
+https://www.graphcore.ai/
+Graphcore develops Intelligence Process Unit (IPU) chips with the goal to accelerate machine learning applications. The processors are designed specifically for AI applications, allowing AI researchers to run current machine learning model orders faster. 
+========
+UiPath  Romania
+https://www.uipath.com/
+UiPath aims to build the world’s best robotic process automation (RPA) software. The initial team of ten, based in Bucharest, outsourced automation libraries and software to some of the world’s biggest companies. Now, the company develops both RPA and AI software. It also offers teaching in RPA to over 35,000 certified developers.
+
+------------------------------------------------------------------------------------
+1995
+21 24
+2018.3 - 2020.5   Cardify  Ghent
+Full Stack Ruby on Rails developer
+2020.6 - 2021.10 THELIS Namur
+2022.1 - now   Sigasi Ghent
+

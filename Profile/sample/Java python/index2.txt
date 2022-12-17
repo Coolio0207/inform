@@ -1,0 +1,16 @@
+ I have more than 10 years of commercial enterprise development experience in Java working as a Senior Java Developer and leading a small but efficient team.
+During my career, I had developed multiple services and applications from desktop apps to huge standalone web applications and micro-service-based platforms for image processing, studying, etc.
+
+A brief summary of my expertise could be found below.
+
+Programming Languages:  JavaScript, TypeScript, Python, Django, PHP, Laravel, React, Vue.js  AngularJS, Flask
+Testing frameworks: JUnit, Mockito, Spock, Geb, Selenium, PowerMock
+IDE: Eclipse, NetBeans, IDEA
+Application servers: Tomcat, WebLogic, Glassfish, Jetty
+OS: Windows, UNIX
+DBMS: Oracle, Apache Derby, MySQL, SQLite
+Build Tools: Maven, Ant, ivy, gradle
+Version Control System: Subversion, git
+Management Tools: JIRA, Confluence, Gerrit, ZenHub, GitHub
+Additional skills: technical documentation writing, knowledge transferring
+CI/CD: Jenkins

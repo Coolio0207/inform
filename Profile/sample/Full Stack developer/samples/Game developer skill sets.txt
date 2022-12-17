@@ -1,0 +1,10 @@
+✔ BUILD - for Android, iOS, WebGL, Windows phones, PC, and MAC.
+✔ AR/VR - virtual reality & augmented reality application based on Unity3D
+✔ Vuforia -,8th Wall, Unity3D, and ARkit for AR & VR games development.
+✔ Playfab - firebase, Javascript, Solid experience using Unity3D, C#, 2D ToolKit, Native Network.
+✔ Social Sharing - plugins for social media, as well as advertising plugins for your games.
+✔ UI/UX Experienced - Game Art, game design, UI design, and testing.
+✔ AI - Developing AI for games is my area of expertise.
+✔ Resking - Quickly Reskin Games.
+✔ Audio - SFX/VFX.
+✔ Deployment - for Android, iOS, WebGL, Windows phones, PC, and MAC.

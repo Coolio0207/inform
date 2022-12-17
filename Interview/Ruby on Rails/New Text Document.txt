@@ -1,0 +1,17 @@
+This is Antonio Davis from Belgium.
+I was born in chinese and I moved here when I was 15.
+I started my programming language with Ruby on Rails.
+And it is about 6 years now. I am confident in all RoR projects for backend and fullstack.
+I didn't worry about the test exactly.
+I was sure ,I could have a high marks and I would pass the test but the result was not good .
+I am afraid I had disappointed you.
+But please let me explain about that.
+When I frist faced the test questions , I frightened.
+the question was too basic and no-related  with developing.
+Let me explain about this with one example question of test.
+The one question was about the condition function using "begin and when".
+In Ruby, there are 4 methods for loop funtions.
+for, each, until and begin.
+Developers are using for in normal and I also used to develop projects using that.
+So I couldn't answer that question.
+This is the reason why I couldn't get high result.

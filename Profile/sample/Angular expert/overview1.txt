@@ -1,0 +1,34 @@
+I am a full-stack web developer specialized in Angular. More than 8 years of experience. Expertise in architecture design, enterprise web applications development, single page applications development, high-load applications development, team management;
+
+Front-end:
+- JavaScript / TypeScript – 10+ years;
+- Angular 2/14 - 6+ year;
+- AngularJS - 2+ years;
+- Vue.js Vue2 Vue3 - 8 years
+- RXJS, NgRx
+- Backbone.js, jQuery, Underscore.js;
+- Unit-tests: Jasmine/Mocha
+- Automated in-browser tests: Protractor
+
+Back-end:
+- Node.js - 4+ years;
+- PHP , Laravel
+- Java , Spring, Hibernate
+- T-SQL / PostgressSQL - 7+ years;
+- Frameworks: Unity, Entity Framework;
+
+Databases:
+- SQL Server
+- PostgresSQL
+- MySQL
+- MongoDB
+
+General:
+- SOLID, DRY, KISS, YAGNI principles
+- Design patterns
+
+Other skills:
+- Chrome extensions
+- Slack API integration
+- Azure
+- DevOps, Jira

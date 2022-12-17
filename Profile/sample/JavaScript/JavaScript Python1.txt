@@ -1,0 +1,24 @@
+As a professional full-stack developer with 10+ years of experience in web development. I’m really passionate on JavaScript so my major stack is React/Node.js.
+
+I built several projects such as Booking, Blog, Ecommerce sites and Uber-like platforms. During these projects I strived to write best practices with SOLID and DRY.
+
+Also, I am proficient in API integration.
+-Yardi
+-Salesforce
+-Telegram, Slack
+-Shipping API integration(FedEx, USPS, UPS, DHL)
+
+
+My skills :
+- HTML, CSS, JavaScript
+- Angular
+- Vue.js, VueX, Pinia
+- Python , Django, Flask
+- PHP, Laravel
+- .Net, .Net Core, ASP.Net, C#
+- React, Redux, React - Hook
+- Node.js, Express
+- Next, Gatsby, Strapi CMS
+- MySQL, PostgreSQL, MongoDB
+- Ghost CMS, Retool, Kintone
+- AWS, Heroku, Kubernetes

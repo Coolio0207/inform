@@ -1,0 +1,15 @@
+Hi there,
+I am a Devops Engineer with 8 years of hand-on experience in architecting / automating and optimizing mission critical deployment over large Infrastructure .Good hands-on knowledge of Source Code Management (Version Control System) tools like Git and Subversion. Proficient in developing Continuous Integration/ Delivery pipelines, Experience with automation/ integration tools like Jenkins, Knowledge of major cloud service providers, like AWS, Azure etc., Good understanding of Infrastructure as Code (Programmable Infrastructure), and expertise using tools like Puppet, Chef, Ansible etc.Hands-on knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm.
+I am the best fit for this job and would be glad to have an opportunity to work on this project. I'm available for this project and willing to start immediately.
+
+I would love to hear from you. Please initiate a chat session for further discussion.
+Thank you
+
+----------------------------------------------------------------------------------------
+
++ SIEM consultant (Splunk, Arcsight) , have experience to onboard the logs from various sources like API (cloud & custom), network, database, file system, script inputs to name few
++ CIM mapping to make the logs fit into data model and help in reports, security detection, etc.
++ in order to tackle Cloudflare logs ingestion to Splunk, following steps :
+++ use Amazon Logpush to push logs to S3 bucket
+++ then use Splunk Add-on for AWS to pull logs in Splunk
+For this to be smooth, network connectivity plays important role and S3 bucket should be correctly setup & permissions

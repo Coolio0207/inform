@@ -1,0 +1,30 @@
+I am experienced full stack .net developer in ASP.NET Core / MVC / WebForm / WinForm / Blazor, C#, Jquery, HTML5, Telerik, DevExpress, SQL Server, MySQL, PostgreSQL, Telerik / Devexpress / Syncfusion.
+
+.NET application development like ASP.net core, c# wpf & winform, database programming based on entity, ASP.net MVC, etc is my major development field and I m working in .NET web and desktop application development for about 5 years.
+So I think your project is very fit with my skills and experience . Please refer to the following results.
+
+http://demo.topmanufacturingerp.com (Enterprise Resource Planning for Trading and manufacturing Industries)
+http://dashlet.uveoustech.com Swagger API Url
+http://pmrerp.uveous.in/ (Customer Releationship system for Movers and Packer Industries)
+https://langcorrect.com/
+http://rakata.topmanufacturingerp.com/
+
+
+
+https://www.cura4u.com/ [Health-Care]
+https://www.moultriemobile.com/
+https://www.evirtualassistants.com/
+https://mypotdoctor.com/
+
+-----------------------------------------------------
+Programming Languages and Work Domain:
+- ASP.Net, C#, MVC, .Net Core, MVVM, Web API, Razor Pages. Node, PHP, Laravel, Django
+- Entity Framework, LINQ, nHibernate
+- Proficient in XML technologies like XSL/XSLT, SAX, DOM, XPath, SOAP, WSDL, SOA Apache Axis.
+- Frontend: React.js, Redux, Blazor, Angular(1.x to 11), Angular Material Design,
+- Telerik, DevExpress, Infragistics
+- Design Patterns like Unity, Repository Pattern, Dependency Injection and IoC
+- JavaScript, Typescript, jQuery, HTML5, CSS3 and Bootstrap.
+- AWS Cloud, Microsoft Azure, AWS Lambda functions, Stored procedures, Serverless, AWS DynamoDB, MSSQL, MongoDB,
+- REST Web Services, 3rd Party APIs, Payment Gateways: PayPal, Stripe, SagePay
+- Source Controls such as SVN/ TFS/ VSS/ GIT/ Source Gear Vault/Azure DevOps

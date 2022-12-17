@@ -1,0 +1,28 @@
+https://www.playfinder.com/
+This website aims to find sports facilities from football pitches to tennis courts in a range of cities across the UK and Ireland.
+There are over 10 thousand users.
+This website is built with the MEAN stack.
+I took part in developing this site and there, I implemented frontend using Angular, chart using chart.js , search using search engine-Elasticsearch.
+The biggest challenge was using Observables.
+I used Angular version 6.1.8
+Observable in Angular is a feature that provides support for delivering messages between different parts of your single-page application.
+This feature is frequently used in Angular because it is responsible for handling multiple values, asynchronous programming in Javascript.
+It is different from Promise.
+The biggest difference is that Promises won't change their value once they have been fulfilled. 
+They can only emit (reject, resolve) a single value. On the other hand, observables can emit multiple results. 
+The subscriber will be receiving results until the observer is completed or unsubscribed from.
+this.league$.subscribe( l => {this.setRandomPlayer(l.leagueId);});
+
+
+https://dannytracks.com/
+https://www.bingobonus.com/
+
+
+===============freelancer====================
+Business: https://www.theemiratesgroup.com/
+Anatomy Fitness: http://anatomyfitness.com/
+Luxury E-commerce: https://www.strapcode.com/
+Satellite and Telecommunications: https://www.arabsat.com/english/home
+Beauty and Cosmetics: https://magicstripes.com/
+Health and Nutrition: https://www.24alife.com
+===============================================

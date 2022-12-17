@@ -1,0 +1,1 @@
+Amazon EC2 , AWS Lambda , AWS S3 , Terraform , Kubernate , DevOps , Azure , Docker

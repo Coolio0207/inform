@@ -1,0 +1,5 @@
+I have applied experience with developing blockchain projects with a focus on Bitcoin and Ethereum. In 2015 won the Hackathon at the Texas Bitcoin Conference for creating a decentralized web browser and web frame work called bitwave. I have experience with erc20 tokens and erc721 NFTs.
+
+My background in cybersecurity gives me expertise on securing cypto-assets along with recovery of wallets. I offer consulting to help strengthen your security posture and prevent theft of your cryptocurrency.
+
+I have been working in the Offensive Security field for 7+ years. With hands on experience working in Enterprise Networks with Red Team, Penetration Tests and vulnerability assessments. I have a web developing background in php with 10+ year experience with linux. I currently hold an active certification for Certified Ethical Hacker from the Ec-Council.

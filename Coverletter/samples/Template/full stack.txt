@@ -1,0 +1,25 @@
+Dear Client.
+When it comes to web development, I am very much experienced.
+I have built over 30 websites, games and mobile apps with my hands from scratch to the end.
+
+//////////certification///////////////////
+
+Please check my prior project.
+https://www.felux.com/
+https://www.snappic.com/   next.js node.js
+https://www.leadjar.io/     react / next.js
+https://www.phonebounce.com/ (call over the internet bridging physical and virtual phones ,  Technical: React, MUI, Node.js, MongoDB)
+https://certain.com
+https://www.terrysfabrics.co.uk/
+
+In my role as Full Stack Developer, I have been tasked with developing web applications such as front-end user interface, database management and assisting with help desk tickets. I have the required skills outlined in the job description. I have advanced proficiencies in HTML, CSS, JavaScript, excellent customer service skills and am familiar with SQL and NoSQL. I also have a solid foundation in Git, MongoDB, Express, Angular2+, React, Vue.js, PHP, WordPress and Node.js.
+
+Other Expertise:
+= > APIs/RESTful APIs development and integration.
+= > Plugin/Module development and integration.
+= > Extensions and Themes integrations.
+= > Experience with AWS, Docker, GIT, CI/CD
+= > Push notification, Google map integration.
+
+☎ Contact me. If you're reading this, most likely we really need to talk!
+Thanks & Regards

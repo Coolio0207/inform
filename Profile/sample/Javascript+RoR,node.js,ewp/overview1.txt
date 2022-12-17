@@ -1,0 +1,15 @@
+Hi ,
+Thanks for your attention in my profile.
+I have 6 years of experience with Ruby on Rails and 4 years of experience with Elixir.
+So far, I have worked on various companies and my role was a Full Stack developer.
+I have built websits from scratch to the end with my two hands using Ruby on Rails, Elixir and JavaScript.
+Figma -> website is my specialty. I can save time!
+
+When it comes to JavaScript, I have 10 years of experience with JavaScript.
+My role is Full Stack developer.
+As you know, JavaScript is the first popular Programming Language regarding it's flexible.
+I also have rich experience with JavaScript frameworks such as React.js(React, React 16.8+), Vue.js(Vue2, Vue3), Angular(4 - 14) and Svelte.
+
+Other skill sets:
+✔️ Experience in Databases: MongoDB, MySQL, PostgreSQL, Microsoft SQL Server, Firebase 
+✔️ CSS skills: SASS / SCSS , Tailwind CSS , Bootstrap , Material UI , LESS

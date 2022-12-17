@@ -1,0 +1,28 @@
+We are a company who sells industrial-scale wastewater treatment skids. We have a 3D model of our skid that was made in Solid Works. We have output a STEP file. We need this model converted into a format that can be interpreted by ZapWorks Studio and imported into a 3D AR environment. This environment will be presented at a booth at a trade conference. Users should be able to scan a QR code with their smartphone which will then cause the model to appear on an area marked out on a table of floor. They will then be able to rotate around the model with their phone and view it from various angles as if it were actually in front of them. We need target tracking so that the model remains properly anchored to real space.
+**************************************
+Hi , sir !
+This is a very simple working.
+I have an experienced in developing BuyAny project that is very similar to yours.
+Give me a chance to explain about my project.
+There, I also used QR code to describe the goods. If someone scans a QR code  , the 3D model appeared on his smartphone's screen and he can rotate , scale.
+So he can get more information about goods.
+It is very similar.
+There I converted 3D models(goods) into a format that can be interpreted by ZapWorks.
+I am confident in your project and if you need help ,please contact to me.
+James Schmidt
+
+---------------------------------------
+Hello, sir !
+I am an expert with over 6 years of experience in AR field and experienced engineer with developing projects using Unreal engine 5 , Metaverse , Metahuman.
+I have some questions about your projects.
+
+My works:
+https://www.youneedtheneeds.com/
+https://www.riotgames.com/ 
+https://admireamaze.debijenkorf.nl/
+https://www.capsule.dormeuil.com/
+https://flowersforsociety.com/
+https://www.xbox.com/
+https://expo2020.canada.ca/
+https://www.blueyard.com/galaxy
+

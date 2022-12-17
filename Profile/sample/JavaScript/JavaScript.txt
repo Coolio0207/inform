@@ -1,0 +1,19 @@
+I am a creative and talented full-stack developer with in-depth knowledge of React, Next.js, Vue.js , Angular, and Node.js, for vibrant UI friendly and high-performance websites and mobile applications.
+
+I have 11 years of experience designing useful, approachable user interfaces and mobile applications. I'm very knowledgeable on all aspects of Facebook's design best practices and emerging UI development techniques, and well versed in middle-wares such as Redux-Thunk and React-Redux, and MongoDB.
+And I have  DevOps experience for 3 years.
+
+- Worked with advanced web and mobile app development technologies like React, Next.js, React Native, Node.js, Express, Gatsby.js, Firebase, MongoDB, MySQL, JavaScript, ECMAScript 6, TypeScript, Immutable, PHP, GraphQL, JSON, AJAX, RESTful Services, Webpack, Bootstrap, HTML, and CSS, C/C++/C#, 
+- Extensive experience with JavaScript design pattern, and structured JavaScript.
+- Used JavaScript DOM manipulation, DOM functions, DOM events, DOM collection, and JavaScript event to generate the data result in UI.
+- Proficient in developing Single Page Application (SPA) using JavaScript.
+- Used React concepts like JSX (JavaScript Syntax Extension), components, state, and props.
+- Experienced in creating Custom Reusable ReactComponents Library.
+- Used Middleware, Redux in application to retrieve data from Back-End and to perform RESTFUL services.
+- Experienced in working with third party web services APIs and Web Services using AJAX for Dynamic form generation, Auto completion of forms, and user-validation functionalities.
+- Used Jest and MochaJS for mocking functions and writing unit tests.
+- Good experience in using Git, CI/CD pipeline, and SVN.
+
+I focus on ensuring customer success, and I strive to deliver the best service and highest quality products. I always want my clients to be delighted with their decision to choose me.
+
+I live and breathe tech, and I'm darn good at it!

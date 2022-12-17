@@ -1,0 +1,5 @@
+A unique aspect of Bubble apps is that they always display real-time , live data.
+This becomes very important as your app gains users becuase you can be sure that all users are seeing the latest,freshest data.
+
+Bubble lets you build completely customized website designs with different kinds of elements.
+There a lot of flexibility with Bubble's free-form , what-you-see-is-what-you-get editor.

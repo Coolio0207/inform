@@ -1,0 +1,25 @@
+My set of skills includes:
+• Cryptocurrency & Altcoin creation
+• Token creation on ETH, BSC, MATIC, and other EVM chains
+• NFT creation on Ethereum, Polygon, Solana, and other chains
+• Decentralized exchanges (Pancakeswap, Uniswap, etc)
+• Yield farms
+• Token staking dashboards
+• Token rewards tracking dashboards
+• Cryptocurrency node & masternode installation
+• Cryptocurrency mining pool installation
+• Cryptocurrency
+
+------------------------------------------------------------------------------------------
+
+Flash Loans - AAVE V3
+Smart contracts - ERC20, ERC721, ERC1155, NFT
+Trading algorithms, TA, Indicators
+NFT - Minting, Buy/Sell, OpenSea
+DEX - Liquidity farming, Staking, etc
+Blockchains - Ethereum, BSC, Avalanche, Polygon, XRP / XRP Ledger
+DEX - Uniswap, Pancakeswap, TraderJoe
+CEX - Binance, Gate.io, FTX (Native API, CCXT)
+Data collection - API, Mempool, Smart contracts
+Bots - Front/back-run, MEV/Sandwich, Arbitrage
+

@@ -1,0 +1,22 @@
+Hi,
+
+Thank you for visiting my profile!
+
+Consider me an extension of your already existing tech-team, or the pilot for your next development project. I thrive at adding value where I can to help companies, or individuals, realize their development needs.
+
+I have a breadth of experience ranging from startup MVPs to working on products for Fortune 1000 companies. I am adaptable as I am willing to jump into the ‘trenches’ to get work done.
+
+The following are technologies I work with regularly:
+REST API's, Firebase, Twilio, Google, Social media SDK's
+➤ Frontend: JavaScript, TypeScript, React/Redux, Next.js, Vue/Vuex/Pinia, HTML5/CSS3, Material Bootstrap 3, 4, Tailwind CSS, Ant Design, Angular
+➤ Backend: PHP(Laravel, Symfony), Node.js, Python/Django/Flask, PHP/Laravel, .Net/ASP.NET/ASP.NET core
+➤ Database: MySQL, MongoDB, PostgreSQL, Firebase
+➤ Serverside: AWS, GCP, Git/BitBucket, REST API’s
+➤ Rapid Prototyping: Figma, Sketch and Invision
+
+Other Skill Sets:
+➤ Web scrapping
+➤ Trading Bot
+➤ Machine Learning, Aritificial Intelligence, Deep Learning
+
+Thank you,

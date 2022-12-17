@@ -1,0 +1,544 @@
+/***********************************************************************/
+I can assist you to develop an online presence for your business. Do you need a website, blockchain, SPA, web application, or e-commerce with fast performance? Are you interested in something unusual and complex with microservices or layered architecture? I have huge experience releasing plenty of complex and commercially successful projects where I assisted my customers not only with coding skills. Every time I try to develop "killer" features to add more value to a system I am working on.
+
+Regarding business domains, I had customers from the public sector, IoT, finances, energy industry, logistics, healthcare, and online education. I can develop SaaS platforms, scrapers, bots, invoicing, and tracking tools.
+
+Web
+* FULLSTACKS MERN / MEAN / MEVN
+* Python / Django / Flask / WordPress
+* Next.js / React / Redux / Saga
+* Nuxt.js / Vue
+* Node / Nest / Express
+* AWS EC2 / Beanstalk / Cognito / S3 / Lambda Functions
+* MySQL / PostgreSQL / Redis / MongoDB / DynamoDB
+Blockchain
+* Bitcoin / Solana / Ethereum / Avalanche
+* Solidity, Rust, Solana
+* Decentralized applications
+* Integration with existing Web Applications using web3.js
+* Custom Smart Contracts of any complexity
+* Smart Contracts Audit
+* NFT Token Development (ERC-721, ERC-1115, etc., including custom specifications)
+* Pancakeswap, Uniswap forking
+
+Please, don’t hesitate to contact me and discuss your project.
+
+/***********************************************************************/
+
+
+
+I have extremely rigorous and intense software development experiences since 2011. I was actively involved in back-end development, front-end development, solutions architecture, blockchain development, full stack development, technical product management. I have worked in many industries using many different technologies with many different types of stakeholders.
+
+I'm result-oriented and product-driven. I love learning new things and constantly strive to find the most efficient ways to get things done better and faster.
+
+But no one can help client businesses grow alone. And I created a strong and professional team - WTT Solutions. We are a group of software experts who have delivered world-class solutions to businesses of all shapes and sizes. We understand that different businesses have different needs - so we adapt to you. Whether you're a small or medium enterprise or in the Fortune 500, we tailor our approach to you to ensure that you get exactly the solution you need and that the entire process is efficient and easy.
+
+Our main business domains are MarTech, EdTech, and FinTech, but we have tremendous experience in all types of SaaS solutions.
+
+What we do:
+
+- SaaS Development
+- Startups Development
+- Discovery Phase and MVP Development
+- Mobile App Development
+- Consulting: technical and strategy
+- Integrations
+- Migrations
+- Support
+
+Our specialties:
+
+- UX/UI Design
+- Full Stack Development
+- Front-End Development
+- Mobile App Development
+- Back-End Development
+- Software Development Tutoring
+- Desktop Software Development
+- Solutions Architecture
+
+> Main tech stack
+
+📃 React
+📃 Angular
+📃 NodeJS
+📃 Flutter
+📃 Typescript
+📃AWS
+
+Feel free to reach out, and let's make it happen!
+
+
+
+
+
+
+
+
+
+Greetings & Welcome !
+Thank you for landing on my profile.
+
+My work is my passion - Full Stack developer/programmer, specialized in MERN/MEAN Stack development, having 10 years of extensive experience in this sphere. I’m responsible for website, portal & web application development, and building innovative, highly customized, robust, feature-packed, modular solutions, and designing/implementing new innovative features and functionalities
+
+I’ve successfully delivered a wide range of custom Full Stack development projects with eye-catching user-friendly UI design and high-end functionalities. I understand all aspects of developing web applications: design, architecture, development, and publishing.
+
+I am not only intending to deliver you Great and Cost Effective solution , Moreover, the way you wish to change this world through your business, I will contribute in it with success.
+
+*** Why Am I ? ***
+--- Have Master Degree in Computer Science & Engineering.
+--- 10 years of Versatile, Hands-On, Extensive & Real life experience in IT domain.
+--- Great communication & collaboration, Perfect delivery by deadline, Understandability of requirements & scope with precision.
+--- Have been active contributor to many successful projects & ventures.
+
+
+Technical skills include:
+
+Front-end
+ReactJS / Angular (TS) / Angular.js / Next.js
+
+Back-end
+Node.js / Express.js / Hapi / GraphQL / Microservices
+
+Database
+MS SQL / MySQL / MongoDB / PostgreSQL / DynamoDb
+
+CSS (Graphic "wrappers")
+Bootstrap / Angular Material / TailWind / CSS / SCSS / LESS /
+
+Build system
+Gulp / Grunt / Webpack
+
+Blockchain
+Solidity / Smart Contracts / Ethereum / Web3.js / NFTs / ERC721 / MetaMask / ENS / Truffle / Hardhat
+
+Let’s build a great product together.
+
+It will be my pleasure to work on your exciting project and perform a good job solving professional tasks.
+
+Thanks and Regards
+
+
+
+
+
+
+
+I’ve been delivering Web & Mobile development services for over 7 years and up to this point successfully completed 50+ projects. 🚀
+
+💻 Services we provide:
+- An entire set of software development services
+- Deployment to AWS and Heroku
+- Project Management: Git / Jira / Trello / Asana / Slack
+- Quality Assurance: Unit testing, integration testing
+- Maintenance: optimization and bug fixing
+
+🛠 Our technology stack:
+- FRONTEND: React/ Angular2+
+- BACKEND: Node.js/ Python/ Django/ Flask
+- DATABASE: PostgreSQL/ MySQL/ MongoDB/ Apollo/ Redis
+- MOBILE APPS: React Native/ Ionic
+- DEVOPS TOOL: Docker/ Kubernetes/ Amazon ECS
+- CLOUD SERVICES: Amazon Web Services/ Google Cloud Platform/ Microsoft Azure/ DigitalOcean
+
+🎯 Why us:
+- Expert team of qualified members
+- Diverse portfolio and excellent recommendations
+- Timely communication and transparency
+- Clear management
+
+
+
+
+
+
+
+Hi I am Lisa, welcome to my profile!
+
+I've got extensive experience creating web and mobile applications using modern technologies.
+I have been working as a full stack developer for quite some time now. My experience in both: front and backend, allows me to write clean, concise and annotated code.
+Aside from development I can also perform security checks on your existing online platforms and identify any possible vulnerabilities. Give you tips on how to patch them or patch those myself if need be.
+
+I am skilled in:
+Javascript: Angular.js 2+, Node.js, Express.js, React.js, Next.js, Vue.js, d3.js.
+Libraries/extensions: Material.io, Angular flex-layout, Materialize.css, Bootstrap, SASS, LESS.
+Cross platform: Ionic, Cordova, React Native.
+Hosting: AWS, Heroku, Okta.
+API/server: REST, NGINX.
+DB: PostgreSQL, MongoDb, SQL
+Testing: Mocha, Jest.
+OS: Linux, Kali Linux, Parrot
+Penetration testing tools: OWASP, Nmap, NIkto, sqlmap, Maltego, Shodan, Rapid7 metasploit, etc.
+Version Control systems: GIT, Github, Gitlab, Bitbucket, Beanstalk.
+
+As for my personality: I am dependable and trustworthy. I love learning new things and experiencing new ways of solving technical problems. I am a huge team player. I love offering solutions, creating applications from scratch and finding ways to make existing applications better. I am always ready to familiarize myself with the documentation for any tools you require that I am not yet familiar with before starting to work on the task.
+
+I find programming fascinating because it gives me the ability to help others bring their dreams and ideas to reality. So, if you can imagine it then I can code it.
+
+Well, I guess that's about it for now!
+I look forward to working with you!
+
+Cheers,
+
+
+
+	I'm a certified Laravel & Vue.JS developer and a trainer as well. I have 10 years of experience in Website, APIs, and Backend reporting tools development. I develop websites with a proper user experience that helps startups, companies engage their customers in a better way. Encourage you to the features that will push your customers to be loyal. The business proposition is nothing but just a relationship with your customer, and I will help you strengthen that relationship.
+
+Type of Projects I have worked on
+-- ECommerce
+-- CMS
+-- Event Management System
+-- Corporate Solutions Like Smooth Entry
+-- Emergency Management Systems
+-- Dance Competition System
+-- Communication System
+
+** Skills Backend**
+-- 10 Years of Experience in Coldfusion (Upwork Top 10 Devs)
+-- 8 Years Experience in PHP
+-- 6 Years Experience in Laravel
+
+** Skills Frontend **
+-- 3 Year Experience in Vue.JS
+-- 10 Years Experience in HTML/CSS/Javascript/JQuery
+
+** Skills SQL **
+-- 10 Years Experience in SQL
+-- Good in query Optimizations especially for filters so I know SQL more than CRUD
+
+** Project Management **
+-- Been Leading teams for 7 years
+-- Used SVN/Git/BitBucket for version control
+
+During the Project, we will track it on a Project Management tool where you can see
+-- Daily updates
+-- Bug Reports
+-- Your Git Repo Link
+
+** Strengths **
+-- Strictly Follow the Timeline
+-- Unmatchable Quality
+-- Try to do THE BEST
+-- Offer a QA period of 1 Month for projects above $1000. In that duration, if you found any Bugs because of my code I will fix them without any cost.
+-- Try my best to understand the client's perspective and End-user needs so that I can comeuppance with something the end-user is going to love.
+-- Do offer After Sale Support
+-- Full-time Freelancer, so I am looking for Long term engagements.
+-- Will provide support in your timezone
+
+
+
+
+
+
+❁´◡`❁) ? The best blockchain developer to work with you.
+
+I will help you implement your idea into a blockchain project and write it to a blockchain history forever.
+
+? Ultimately, the reason why anyone decides to get involved in a blockchain project is to MAKE MONEY - whether that’s by creating the most popular NFT platform or by creating a cryptocurrency that will be used for transactions by millions of users.
+
+And perhaps, you’re not too sure that the “cheap” developers you see out there in Freelancer will provide you with the best solution you are looking for right now.
+
+Your project will be delivered on time and within budget, guaranteed.
+
+? Communication services include:
+*I like to communicate with clients in 'normal people' language - not technical jargon.
+*Our communication will be smooth, relaxed, and efficient.
+*I will coordinate and collaborate with you and any other project partners to ensure everything stays on track.
+*I will provide you with daily updates and progress reports so that you can rest easy.
+*My communication style will make the whole project enjoyable.
+
+? Blockchain services include:
+* Decentralized applications
+* Integration with existing Web Applications using web3.js
+* Custom Smart Contracts of any complexity
+* Smart Contracts Audit
+* NFT Token Development (ERC-721, ERC-1115, etc., including custom specifications)
+* Pancakeswap, Uniswap forking
+
+If you’re looking for a new crypto project, built with clean code, with a beautiful design, all built to take your business to the next level, you can contact me here and we can schedule a quick call.
+
+I'm looking forward to your fun project. Thank you.
+
+
+
+
+
+Hello,
+
+Thank you for stopping by! I am an experienced Web Developer who specialized in PHP, JavaScript, and backend development. I also offer services in logo design and mobile application development.
+
+I can work with many different software applications and solutions, including (but not limited to):
+• HTML
+• MySQL
+• WordPress
+• Shopify
+• Laravel
+• Graphic Design
+• eCommerce
+• Logo Design
+• Codeigniter
+• Photoshop
+• Adobe Illustrator
+• Testing / QA
+
+All my services come with 100% satisfaction guarantee, and 100% moneyback guarantee if that’s not the case (but I promise, it won’t be!).
+
+If you have needs in any of these areas, please let me know! I will always work to ensure you get exactly what you need, on-time and without hassle!
+
+
+
+
+
+
+
+As Michael Leboeuf said, “A satisfied customer is the best business strategy of all”.
+I very well follow it.
+
+Hi, I'm Anum. Who visualizes, pens down ideas, adds in the essential ingredient of creativity and imagination and cooks up that perfect dish called BRAND.
+A passionate achiever who travail day and night to deliver superlative work and utmost customer satisfaction.
+
+My specialized services include the following:
+
+✔ Web Development & Designing
+✔ 2D & 3D Illustrator
+✔ Logo Design/Recreate
+✔ PowerPoint Presentations - Pitch Deck
+✔ Children's Book Illustrations - Pencil Sketches - Coloring Books
+✔ Label & Packaging Design (with dieline & 3d Mockups)
+✔ Brochure - Company Profile - Catalogues
+✔ Corporate Identity - Brand Guideline
+✔ Jpg to Vector/PSD/PDF
+✔ Graphic Design
+✔ Stickers, Van Wrapping, Sportswear - Shirts - Mugs - Cup design
+✔ Post Card - Gift Card
+✔ Google Ads Design
+✔ Adobe Illustrator - Adobe Photoshop - Adobe Indesign
+✔ Book Cover/Layout - Ebook Cover/Layout- Magazine Layout Design
+✔ APP Design
+✔ Website Developer
+✔ Website Bugs Fixer
+✔ 3D Rendering/3D Modelling
+✔ Arduino Specialist Little Bit
+
+I assure you that I'll be available 24/7 and will provide you with Guaranteed 100% High-End and High-Quality Work as I believe in developing long-term relationships with clients by helping them as per their needs in the development and growth of their business.
+
+Let's connect to start.
+
+Thanks!
+
+
+
+
+
+
+My name is Anthony Munoz, Senior Software Engineer
+
+What services can i do for you?
+
+- APIs development, App development.
+- Website development and building
+- Data Scrapping and Mining
+- Python development
+- Linux Admin and Bash development
+- Database development, mysql, postgresql, mongodb, etc.
+- AWS services, DevOps
+- Data Scientist
+- Jupyter and pandas tools.
+- Java Development
+- javaScript Development
+
+Technologies
+
+Flask, Rabbit, IBM IoT, Jupyter Notebook, Amazon IoT, Pandas, Amazon Services, Neupy, Machine Learning, Plotly, Different Databases, Docker, Matlab, Bokeh, JSON - XML, Docker-Compose
+
+
+
+
+I'm a senior MEAN stack and net developer with extensive experience in building high quality web and mobile application.
+
+I have premier academic background from a premier institute of india (NIT/REC)
+
+My experiences range from building responsive mobile sites that work well cross-browser to building scalable sites for the financial services industry. I like working on projects with a team that cares about creating beautiful and usable interfaces. It's important to me to build long term relationships with clients,
+
+I'm flexible with my working hours and am happy to work closely with any existing freelancers you work with.
+
+I have 10 year of experience in building the application on below technology stack
+
+MEAN Stack - ( Node.js , Express , Angularjs, Mongodb )
+Anguar2 /React JS and
+VueJS client framework
+Firebase
+
+IONIC framework / React Native
+Android Native development
+
+PHP , Laravel ,Codeigniter
+
+.net , C#, MVC and Web API
+Sql Server /Mysql
+
+
+
+I have good experience in developing websites and application for 5 years.
+I have built the business websites as CRM, CMS, real estate, education, stock, salary system, donate, booking and so on using PHP and React.JS.
+I have mobile app development technology while working so integrated 3rd party libraries as 3D, Firebase, Recognition and completed mobile app and deployed.
+Also I have worked on some projects with companies.
+I will do my best on Freelancer.
+
+My Skills:
+* Web development
+PHP, React.JS, React Native, Angular, Vue.JS, Shopify Liquid, Svelte
+* Backend development
+PHP, Node.JS, .NET Core, Fast API, Ruby on Rails
+* Technologies:
+AWS ELB/RDS/S3/Connect/Lex/Rekognition
+Twilio/Sendgrid/Google Firebase
+Shopify, Perfex CRM, Odoo, Suite CRM, CMS, Tradingview, WebRTC, Smart Contract
+
+
+
+
+As a senior Fullstack and Blockchain Developer, I have 8+ years of experience and I am seeking to obtain a creative and challenging position that utilizes my current knowledge of web and blockchain development.
+
+My Major Skills :
+
+* Website Development
+- Fullstack : MERN, MEAN, Vue+Laravel, Django
+- Frontend : HTML, CSS, Bootstrap, Javascript, React, Vue, Angular
+- Backend : PHP, Laravel, Codeigniter, Node, Express, Django, Golang
+- Database Architecture: MySQL, MongoDB, GraphQL, PostgreSQL, MS SQL, SQLite
+- CMS: WordPress, Hugo, WIX, Shopify
+
+* BlockChain
+- Smart Contract Development(Token, Market and Game contract on Solidity or Ride)
+- Web3 integration on many platform
+- Bridge, Cross Token, Staking or Farming on PCS, Uniswap
+- Opensea, Moralis and IFPS
+
+* Desktop Development
+- Software Architecture : VB, C/C++, C#, Java, Python
+- DataBase Architecture : MySQL, MS SQL, PostgreSQL, MongoDB
+
+If you are looking for complete services, I can readily deploy across AWS (EC2 / Elastic Beanstalk), Heroku, WordPress, cPanel, or any other platforms / VPS of your choice. Sufficient experience in setting up both Nginx and Apache.
+
+
+
+
+
+
+Thanks for visiting my profile!
+I am a professional web/app engineer with 6+ years of experience in Javascript and PHP frameworks. I have already developed many web and app projects with React, Node, Vue, Angular and PHP, CI, Laravel, and Python.
+I am familiar with Android/iOS app development using react native and ionic.
+Also, I am an expert in web scrapping with Python and PHP, Node.js.
+I have strong experience in developing blockchain projects including smart contract development and front-end development using Solidity, Web3.js, etc.
+
+My main skills are following:
+
+- Frontend:
+* React/Redux.js, Redux-Saga, Redux-Thunk, React-Bootstrap, Material-UI
+* Typescript, Next.js, Nuxt.js
+* Vue.js/VueX, Vuetify
+* Angular 1-9
+* PSD to HTML && Figma to HTML && XD to HTML, Bootstrap 4, Tailwind CSS, LESS/SASS/SCSS, Responsive UI
+
+- Backend:
+* PHP, CI, Laravel, Cake PHP
+* Node/Express.js
+* Python, Django
+
+- Blockchain:
+* Solidity, Rust, Solana
+* Smart contract
+* Web3.js, Ethers.js
+* Ethereum & Binance smart chain(BSC), Avalanche, Polygon
+
+- Mobile App:
+* Android, iOS
+* React Native, react native cli, expo cli
+* Ionic
+
+- Web Scrapping:
+* Python/Selenium, Node.js, PHP
+
+- Database:
+* SQL, MySQL, SQLite, MongoDB, MariaDB, PostgreSQL, NoSQL
+
+I can work over 40+ hours per week and if you want more, I can work in full time without weekend rest. Also my communication is very quick so that I can reply your message in short time.
+I hope I work with all clients in long term.
+If you are looking for senior web and app developer, please contact me anytime.
+I am always ready for you :)
+
+Regards
+
+
+
+
+
+
+I have 8+ years of professional experience of software development especially Game Design with unity3D and Android Studio, Web development using Docker, PHP, WordPress and React, lastly Mobile App and Blockchain development. In addition, I am senior blockchain and Game Developer and I have developed 300+ projects successfully.
+From 2014 began proactively working on Full stack and blockchain related projects as a high skilled software Developer.
+My experiences range from creating both front-end applications to backend architecture design and implementation, smart contract development, testing, auditing, and development for Fintech, NFT Marketplace (NFT minting, royalty, staking, and farmng) and other industries that need the power of decentralization, tokenization, and smart contracts.
+
+Ethereum | Avalanche | Solana | Binance Smart Chain | Full Stack
+✓ Developing smart contracts by Solidity and Rust programming languages.
+✓ Integrating Smart Contract with Web Page with Web3js and EtherJs.
+✓ Static analysis of smart contracts for gas consumption and optimization using Remix IDE.
+✓ Securing smart contracts using libraries like OpenZeppelin.
+✓ Developing and deploying smart contract using Hardhat.
+✓ Integration with crypto wallets such as Metamask & Wallet Connect.
+✓ Deploying smart contracts on test networks such as ropsten/rinkeby as well as ethereum/solana mainnet.
+
+I hold expertise with:
+
+- Solidity / Rust
+- React.js / Express.js / Vue.js / Next.js / Angular.js / Redux /Node.js
+- MySQL / MongoDB / PostgreSQL / MSSQL
+- Heroku / VPS / Amazon Web Services (AWS) / Digital Ocean
+- Github, Gitlab, Bitbucket, Trello, Backlog, etc.
+
+
+Here are the applications that I've built so far.
+
+- Dapp, DeFi development
+- NFT game/marketplace development on Ethereum & Solana blockchains in Solidity & Rust
+- Ethereum & Binance Smart Chain token development on ERC20, ERC721, ERC1155, BEP20, BEP721 & BEP1155 protocols
+- ICO / ITO / IDO / STO, Cryptocurrency exchange & Cryptocurrency wallet Development
+
+Further Expertise & Work Deliverables in Blockchain:
+
+✓ DApp for Supply Chain Management for Food Industry
+✓ DApp implementation in Philanthropy
+✓ DApp for Anti-Counterfeiting in the Pharmaceutical Industry
+✓ Worked on Protocols like Ethereum, IBM Hyperledger, Stellar
+✓ SetUp of a Permission-based Consortium Network
+✓ Implementation of Private, Public and Permission-based network
+
+
+If you are looking for a skilled and punctual developer, then hire me. I can assure you that your job will be done perfectly at the right time without making any mistakes. So if you feel interested, have faith in me and give me a chance to make your project successful.
+
+
+
+
+
+
+
+I have been working as a developer for over 8 years and have gained a lot of experience during that time. I am well versed in a number of programming languages. But I think it is not important how many languages I know. Still I am always eager to learn a new and make my skill sharper whenever I get any chance.
+
+"Quality than Quantity", this is my motto on developing.
+I am an individual but I have some highly skilled dev-colleagues, so I can provide quick and top-quality work with them if you need.
+
+Skills:
+✓ Html, CSS/SCSS/Sass/Less/Tailwind CSS/Bootstrap 3,4,5
+✓ JavaScript • React • Vue.js • AngularJS • Next.js • Nuxt.js• Express.js • Sencha • Ext JS • Ember.js • Svelte.js • Three.js • jQuery
+✓ PHP • Laravel • Symfony • WordPress • CodeIgniter
+✓ Python • Django • Flask • PyQt5 • PySide2 • OpenCV
+✓ C++ • C# • .NET • ASP.NET MVC • ASP.NET Core
+✓ Mobile App • Android • Java • Kotlin • iPhone/iPad • Swift • React Native • Flutter • Dart
+✓ MSSQL • MySQL • MongoDB • PostgreSQL
+✓ Git • AWS • GoDaddy • Bitbucket • Firebase
+
+Why Recommended:
+✓ Over 8 Years of Experience
+✓ Professional and Polite, Responsible and Passionate
+✓ Amazing Communication
+✓ Qua

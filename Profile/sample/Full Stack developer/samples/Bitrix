@@ -1,0 +1,15 @@
+Hi,
+I am proficient in Bitrix.
+I am very much familiar with CRM tools such as "client management", "pipeline management" and "CRM scheduling" of Bitrix24.
+I have over 3 years of experience with Bitrix.
+
+What I have done before in the one of prior project.
+- Ability for the customers to text us at their existing phone number which is shared by both phone and text
+- Incoming texts get attached to existing deals if phone number match, otherwise, new deal created
+- Ability to text out from existing phone number shared by both phone and text
+-- Text out from an existing deal
+-- Initiate a text from a newly created deal (or lead)
+-- Send out text to multiple contacts in a single step (assuming way to aggregate contacts)
+- Open to porting phone number to new service, however, would need to still have to be able to phone and SMS using the same number
+- Open to setting up a self hosted solution rather than using hosted Bitrix24
+- Possible advice on ways to better use Bitrix24 for our business

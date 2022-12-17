@@ -1,0 +1,441 @@
+失礼します Excuese me. Shitsurei shimasu 
+どうぞ Please Douzo 
+どうぞよろしくおねがいします Douzo yoroshiku onegai shimasu 
+自己紹介をお願いします Jikoshoukai wo onegai shimasu 
+今回お申し込みのポジションについて、どう理解していますか konkai omoushikomi no pojishon ni tsuite, dou rikai shiteimasu ka?
+Regarding the position that you have applied for, what do you know about it?
+応募動機を教えて下さい Please tell us about why you applied oubodouki wo oshiete kudasai 
+現在の仕事内容を教えて下さい Please tell us about your current job genzai no shigoto naiyou wo oshiete kudasai 
+締め切りが守れなさそうな時はどうしますか What do you do if you can’t make a deadline? Shimekiri ga mamorenasasouna toki ha dou shimasu ka. 
+仕事上問題が発生したら、どう解決しますか Shigotojou mondai ga hassei shitara, dou kaiketsu shimasu ka 
+If you come across a problem during work, how would you resolve it?
+Anata no chousho/tansho wo oshiete kudasai あなたの長所・短所を教えて下さい Can you tell us about your strengths/weaknesses?
+anata no keiken kara donna koto wo heisha de ikaseru to omoimasu ka? あなたの経験からどんなことを弊社で生かせると思いますか/
+How do you think your experience matches the position?
+anata no sukiru no donna koto wo ikaseru to omoimasu ka
+あなたのスキルのどんなことを生かせると思いますか
+How do you think your skills match the position?
+Please tell us about your Japanese level. anata no nihongo no reberu wo oshiete kudasai
+あなたの日本語のレベルを教えて下さい
+What is your hobby? shumi ha nan desu ka 趣味は何ですか
+あなたはどのようなスキルをお持もちですか？ What are your skills?
+When did you come to Japan? いつ日本にほんに来きましたか？
+Itsu made Nihon ni sumu tsumoridesu ka? いつまで日本に住むつもりですか? How long do you plan to live in Japan?
+Do you have any questions?	質問はありますか	shitsumon ha arimasu ka
+
+○○と申します。私は「挑戦する」人間です。未経験でも自分が成長できると思う環境があれば、一歩踏み出して挑戦してきました。趣味は居合道です。本日、ありがとうございます。これからもよろしくお願いします。
+
+私の強みは、主体的に考え、周囲を巻き込みながら、問題を解決する方法を徹底的に考え抜くことです。その根拠として、インターンをしていた会社でチームの売上目標に対し120％の達成に貢献した経験があります etc
+
+今まで多くのソフトウエア開発に携わり、その時々ではやりがいを感じていたものの、「果たして本当にクライアントの問題を解決するものなのだろうか」と疑問を抱くときもありました。御社ではクライアントへのヒアリングにもエンジニアが同行し、徹底的に課題分析を行うと知り、ここでなら自分の能力や経験を活かして会社とともに同じゴールへ向かって一緒に成長・発展できると考えております。プロジェクトマネジャーとしての経験もあり、チームのマネジメント経験も自信がありますので、御社で即戦力として貢献できると思っております。
+
+はい、村田です。いつもお世話になっております。
+Hai, Murata desu. Itsumo osewa ni natte orimasu.
+Hello, this is Murata. It's always great to work with you.
+
+はい、あー、その件ですね。
+Hai, aa, sono ken desu ne.
+
+Oh, yes, about that...
+
+ナインさん、「M」は複雑そうですね。
+Nain-san,「M」wa fukuzatsu soo desu ne.
+
+Naing-san, this M looks complicated.
+
+確かに。
+Tashikani.
+You're right.
+
+はい、では失礼いたします。
+Hai, dewa shitsuree-itashimasu.
+Okay, thank you.
+
+Sagyō ni torikakatte kudasai. 作業に取り掛かってください。 Get started.
+
+40個ならできると思います。
+Yonju-kko nara dekiru to omoimasu.
+I think I could make 40.
+
+まだです。Not yet. 
+
+あともう少しかかります。I need a little more time.
+
+何とか大丈夫です。
+Nantoka daijoobu desu.
+I should be fine.
+
+終わり次第お手伝いします。
+Owari shidai otetsudai shimasu.
+ I'll help you as soon as I'm done.
+ 
+ じゃあ、終わったらお願いします。
+  Jaa, owattara onegai-shimasu.
+  Well, as soon as you're done!
+  
+  いつもお世話になっております。
+   Itsumo osewa ni natte orimasu.
+   Thank you for everything.
+   
+   申し訳ございません。
+Mooshiwake gozaimasen.
+
+My apologies.
+
+来週の水曜日はいかがでしょうか。
+Raishuu no suiyoobi wa ikaga deshoo ka.
+
+How about Wednesday next week?
+
+
+来週ですか…。
+Raishuu desu ka...
+
+Next week...
+
+午前中にお願いしたいんです。
+Gozenchuu ni onegai-shitai n desu.
+
+In the morning, if possible.
+
+よかった、それで結構です。
+Yokatta, sore de kekkoo desu.
+
+Oh, yes. That would be fine.
+
+かしこまりました。
+Kashikomarimashita.
+
+Of course.
+
+あの、実は一つお願いがあるんですが。
+Ano, jitsu wa hitotsu onegai ga aru n desu ga.
+I have a favor that I need to ask of you.
+
+難しいと思うんですよ。 muzukashii to omou n desu yo. I still think it's probably not possible.
+
+そこを何とか、ご検討いただけませんでしょうか。
+Soko o nantoka, gokentoo-itadakemasen deshoo ka.
+Could you please reconsider?
+
+ご連絡お待ちしております。  Gorenraku omachi-shite orimasu. I'll wait to hear from you.
+
+ちょっとお願いがあるんだけど、いいかな。
+Chotto onegai ga aru n da kedo, ii kana.
+Could I ask you a favor?
+
+ちょっと修正が多いんだけど Chotto shuusee ga ooi n da kedo, There are quite a few corrections.
+
+それはどんな仕事なの。
+Sore wa donna shigoto nano.
+What were you asked to do?
+
+どちらを先にすればよろしいでしょうか。
+Dochira o saki ni sureba yoroshii deshoo ka.
+
+Which should I do first?
+
+そうか。じゃあ、これは別の人に頼んでみるよ。
+Sooka. Jaa, kore wa betsu no hito ni tanonde miru yo.
+
+I see. In that case, I'll ask someone else.
+
+ちょうど良かった。 Choodo yokatta. Perfect timing.
+
+できた！お疲れ様です。
+Dekita! Otsukaresama desu.
+
+We finished! Thank you very much.
+
+すみません、確認させてください。
+Sumimasen, kakunin sasete kudasai.
+Please let me confirm.
+
+また明日 Mata ashita. See you tomorrow
+
+あともう一つだけいいですか。 Ato moo-hitotsu dake ii desu ka. Can I ask you one more thing?
+
+それなら、Sore nara, In that case,
+
+どうですか。進んでいますか。
+Doo desuka. Susunde imasu ka.
+
+Everything going okay?
+
+どういたしまして。
+Doo itashimashite.
+
+You're welcome.
+
+よろしければ、私が致しましょうか。
+Yoroshikereba, watashi ga itashimashoo ka.
+
+If you don't mind, shall I do that?
+
+はい、あとちょっとです。
+Hai, ato chotto desu.
+
+Nearly done.
+
+今日中にできるかな？
+Kyoo-juu ni dekiru ka na?
+
+Will you be able to finish today?
+
+今日中にできるかな？
+Kyoo-juu ni dekiru ka na?
+
+Will you be able to finish today?
+
+その仕事、僕が引き受けます。 sono shigoto, boku ga hikiukemasu. I'll take care of it!
+
+任せてね。
+Makasete ne.
+
+Leave it up to me.
+
+助かります。 Tasukarimasu.  That's a big help.
+
+ああ、いいよ。
+Aa, ii yo.
+
+Sure.
+
+明日は大丈夫だよね。
+Ashita wa daijoobu da yo ne.
+
+Tomorrow will be no problem, right?
+
+あ、１時間ですか。
+A, ichi-jikan desu ka.
+
+Ah, one hour?
+
+へえ、そうなんですね。
+Hee, soo nan desu ne.
+
+Wow, is that so?!
+
+そうですか。検討します。
+Soodesuka. Kentoo-shimasu.
+
+I see. Please give me some time to consider.
+
+この件は誰マターかな。
+Kono ken wa dare-mataa kana.
+
+Who's in charge of this job?
+
+例えばどんな感じでしょうか。 tatoeba donna kanji deshoo ka. Can you describe what you mean by that?
+
+もう、気をつけてくださいね。 moo, ki o tsukete kudasai ne. You be more careful.
+
+ご迷惑をおかけして申し訳ありません。 Gomeewaku o okakeshite mooshiwake arimasen. I'm sorry we were a nuisance. 
+
+そんなに大げさにしなくて大丈夫。 sonna ni oogesa ni shinakute daijoobu. it's not a big deal.
+
+ちょっといいですか。 chotto ii desu ka. could I ask you something?
+
+ご無理を言って申し訳ありませんが、 Gomuri o itte mooshiwake arimasen ga,  I'm so sorry to ask, 
+
+どれぐらいの時間ですか。 doregurai no jikan desu ka. How long will it take?
+
+１時間で終わらせます。 Ichi-ji-kan de owarasemasu. We'll finish in an hour.
+
+ぜひ長いお付き合いをお願いしたいと思っております。 zehi nagai otsukiai o onegai-shitai to omotte orimasu. 
+so we'd like to work with you in the future.
+
+こちらこそ、よろしくお願いいたします。 Kochira koso, yoroshiku onegai-itashimasu. We look forward to working with you as well.
+
+10分ほどお待ちいただけますか。 Ju-ppun hodo omachi-itadakemasu ka. Would you mind waiting about ten minutes?
+
+ぜひ私も一度やってみたいです。Ima kara torikakaru tokoro desu.I'm about to get started.
+
+すみません、実はまだ終わっていません。
+Sumimasen, jitsu wa mada owatteimasen.
+
+I'm sorry. Actually, it's not done yet.
+
+すみません、行き違いがあったようです。すぐに対応いたします。 Sumimasen, ikichigai ga atta yoodesu. Sugu ni taioo-itashimasu. There's been a misunderstanding. I'll deal with it right away.
+
+安くって、いくらなんですか。 Yasukutte, ikura na n desu ka. 
+Just how cheap is "cheap"?
+
+ぜひご協力いただけませんか。  Zehi gokyooryoku itadakemasen ka. I do hope you will agree to it.
+
+混んでるからかな。  Konderu kara ka na. It’s pretty busy, I guess.
+
+確認してまいります。少々お待ちください。
+Kakunin-shite mairimasu. Shooshoo omachikudasai.
+
+Let me check on that for you. Just a moment, please.
+
+大変申し訳ございません。
+Taihen mooshiwake gozaimasen.
+
+I deeply apologize.
+
+もう少々お待ちいただけますか。 moo shooshoo omachi itadakemasu ka. Could you please wait just a little longer?
+
+お時間を頂いてしまい、申し訳ありません。
+Ojikan o itadaite shimai, mooshiwake arimasen.
+
+I’m sorry it’s taking so long.
+
+今しばらくお待ちください。
+Ima shibaraku omachikudasai.
+
+Please wait a little longer.
+
+ちょっといいですか。
+Chotto ii desu ka.
+
+Can I have a word?
+
+じゃ、頼んだよ。
+Ja, tanonda yo.
+
+I'm counting on you.
+
+
+何か手伝いましょうか。
+Nanika tetsudaimashoo ka.
+
+Is there anything I can help with?
+
+もう少し自分でやってみます。
+Moosukoshi jibun de yatte mimasu.
+
+I'll try on my own for now.
+
+じゃあ、ちょっと見せてください。 Jaa, chotto misete kudasai. Could you just give me a look?
+
+前回のものと、どこが変わりましたか。
+Zenkai no mono to, doko ga kawarimashita ka.
+
+What's new about this design?
+
+コストを下げるために、ここの部品を変えました。
+Kosuto o sageru tame ni, koko no buhin o kaemashita.
+
+I changed this part to reduce the cost.
+
+なるほど。少し部品が大きくなったようですね。
+Naruhodo. Sukoshi buhin ga ookikunatta yoo desu ne.
+
+I see. It looks like this part is a bit larger now.
+
+問題ありませんか。
+Mondai arimasen ka.
+
+Is that okay?
+
+特にありません。
+Toku ni arimasen.
+
+Yes, there is no problem.
+
+そうですか。じゃあこれで次の作業を始めてください。
+Soo desu ka. Jaa kore de tsugi no sagyoo o hajimete kudasai.
+
+I see. In that case, please begin the next step.
+
+３時に戻る予定です。
+San-ji ni modoru yotee desu.
+
+She should be back at 3.
+
+よろしければ、 Yoroshikereba,  Shall I have
+
+お待たせしました。
+Omatase shimashita.
+
+Sorry to keep you waiting.
+
+本日はお忙しいところお時間をいただき、ありがとうございます。
+Honjitsu wa oisogashii tokoro ojikan o itadaki, arigatoo gozaimasu.
+
+Thank you for taking the time to meet with me today.
+
+あ、早速ですが、ご紹介しますね。
+A, sassoku desu ga, goshookai-shimasu ne.
+
+Now, if you'll allow me to make an introduction.
+
+どうぞよろしくお願いいたします。
+Doozo yoroshiku onegai-itashimasu.
+
+Hello, it's nice to meet you.
+
+何人か教えていただけませんか。
+Nan-nin ka oshiete itadakemasen ka.
+
+Could you tell me how many people will attend?
+
+そう。よかった。
+Soo. Yokatta.
+
+I see. I'm glad.
+
+じゃあ、メールをチェックしてみるよ。
+Jaa, meeru o chekku-shite miru yo.
+
+Okay, I'll check my email.
+
+申し訳ありません。時間が足りなくて、難しそうです。
+Mooshiwake arimasen. Jikan ga tarinakute, muzukashisoo desu.
+
+I'm sorry. I don't think there's enough time to do everything.
+
+そう、困ったわね。どうしよう。
+Soo, komatta wa ne. Dooshiyoo.
+
+Oh, no. That's no good. What shall I do?
+
+私のおすすめは、Watashi no osusume wa, I recommend ...
+
+理由は二つあります。
+Riyuu wa futatsu arimasu.
+
+I have two reasons.
+
+まず一つ目の理由は、 Mazu hitotsu-me no riyuu wa, Reason one, 
+
+いい情報をありがとう。
+Ii joohoo o arigatoo.
+
+Thanks for the information.
+
+大変だったね。
+Taihen datta ne.
+
+It was pretty tough, huh?
+
+お疲れさま。
+Otsukaresama.
+
+Great work.
+
+Play
+
+手伝ってくださって大変助かりました。 tetsudatte kudasatte taihen tasukarimashita.  your support was extremely helpful.
+
+本当にありがとうございました。
+Hontoo ni arigatoo gozaimashita.
+
+Thank you very much.
+
+ああ、気にしなくていいよ。
+Aa, ki ni shinakute ii yo.
+
+Oh, don't worry about it.
+
+お疲れさまでした。
+Otsukaresama deshita.
+
+Thank you for your hard work.
+
+お疲れさま。また明日。
+Otsukaresama. Mata ashita.
+
+Thanks. See you tomorrow.

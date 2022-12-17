@@ -1,0 +1,144 @@
+-----------------------SMS experience------------------------------------
+
+Especially, I made many CMS project regarding requirement of several clients.
+I show you one of my previous projects to verify me.
+
+Title - BlueberryCMS
+Technologies Used - C#, Asp.net Zero. Dot Net Core, Dot Net Boilerplate, Telerik, JavaScript, HTML5, CSS3, jQuery 2.1.1, Google Font API and Google Analytics.
+Description - BlueberryCMS provide PaaS platform for web designers and marketing agencies for increasing their productivity with minimizing their expenses and maximizing return on investment for their clients.
+Features implemented:
+- Provide PaaS Facilities.
+- Sign-up page is developed on Landing Page.
+- reCAPTCHA verification is integrated with the site.
+- Simple subscription plan with button functionality is created and linked on the landing page.
+- Fade In animation is linked with some pages of this site.
+- This site provides a dual-mode designing facility with client can use drag and drop option or client can edit code also.
+- Social media platform are integrated to this site.
+- This site is hosted over Amazon hosting providers on Nginx server.
+
+-----------------------How can developers get their websites to load faster?------------------
+
+https://www.cloudflare.com/learning/performance/speed-up-a-website/
+
+1.Test website performance
+2.Use a CDN (content delivery network)
+3.Optimize images
+4.Minify CSS and JavaScript files
+5.Reduce the number of HTTP requests if possible
+6.Use browser HTTP caching
+7.Minimize the inclusion of external scripts
+8.Don't use redirects, if possible
+
+-----------------------react experience  with url---------------------------------------------
+
+💎 https://piedwork.com
+It's a SaaS solution that shows the team workload, financial KPI of the company, calculates revenue and reflects indexes of the monthly company work.
+In the attached files, you can see the screens of how the system works and React code sample.
+
+💎 https://knowi.com
+Its a complex Enterprise BI platform that unifies analytics across unstructured and structured data.
+
+💎 https://www.cityfalcon.com
+It’s an international resource dedicated to the search, processing and provision of financial news.
+
+https://www.aestheticrecord.com/
+1. Aesthetic record: SaaS based EMR Practice Management Software
+✓ Online patient Portal
+✓ Subscription plan
+✓ Performance Tracker
+✓ User panel to view their invoices and receipts
+
+
+https://mutterfly.in/
+2. Mutterfly : (Rent products on demand)
+✓ Instantly rent any item on the platform with same-day delivery for most items.
+✓ Door-to-door delivery and pickup
+✓ you don’t have to worry about a thing!
+✓ Rent everything for as little as a day
+✓ no minimum charges apply
+✓ Easily list any items you have in as little as 5 minutes
+✓ your items, your price.
+
+
+http://www.dialoggg.com
+3. Dialoggg ( dialoggg.com )
+✓ Gantt chart and calendar for project planning
+✓ Create internal and external users and assign permissions to them
+✓ Document management ( Private & public )
+✓ Real-time chat, messages, and Videos
+✓ Activity logs and timelines
+
+https://icebug.com/
+
+I used Vue.js, Node.js, Express, PostgreSQL, AWS in developing this online shop.
+I improved the UI of the existing admin tool to create more personalized consumer experiences. Next, I introduced a new feature to accelerate the time to purchase. Also, I conducted automated build testing and embedded the AWS to speed up the software development lifecycle and provide more visibility into app performance.
+
+https://www.vestwell.com/
+
+I used React, Node.js, Express, MongoDB, Heroku in developing this investing platform.
+I first evaluated and refactored product code to increase agility, security, and speed across the entire development life cycle.
+Next, I engineered three advanced recordkeeping modules — for companies, employees, and Vestwell’s own operational team — as well as integrated the client’s existing infrastructure with third-party HR and payroll systems.
+I also implemented integrations with the Voya and Franklin financial platforms.
+
+
+Laravel, Vue Projects
+1) Markate: https://www.markate.com/
+
+Features: Markate is an application where users can manage sales, invoices, expenses, leads, employees, campaigns, and many more.
+
+Role: I have worked as a full-stack developer in this application and participated in all areas of the development cycle e.g schema design.
+Technologies: Codeigniter, VueJS, Payment Gateways, Quickbook 
+
+2) Yabee: https://yabee.me/
+
+Features: Yabee is an e-commerce application where vendors can manage their products and sell through this platform.
+
+Role: I have worked as a full-stack developer in this application and participated in all areas of the development cycle e.g schema design, software architecture, and deployments on the server.
+Technologies: Laravel, VueJS, ReactJS, Stripe subscription, Aramex
+
+3) Universal Visas: https://testcrm.universalvisas.com/
+
+Features: Universal is a product to handle visas applications
+
+Role: I have worked as a full-stack developer in this application and participated in all areas of the development cycle e.g schema design, software architecture, and deployments on the server.
+Technologies: Laravel, Vue, Xero API
+
+4) Skyware: https://skywave.app/
+
+Features: Skywave is a CRM application and it has the following modules (Accounts, Appointments, Marketing, Wallets, work orders, Support, students )
+
+-------------------
+Drag and Drop builder.
+https://youtu.be/8UN8S5WyI8Y
+
+-----------------------------------------------------------------------------------------------------
+
+And our UI/UX designs for SaaS, web apps, and dashboards:
+1) an SFTP/FTP server management admin panel: https://bit.ly/3JyozxQ
+2) a web platform for construction cost estimation: https://bit.ly/3Q18ZiO
+3) a fleet management/delivery logistics web app with LRT/RTL versions: https://bit.ly/3ojg2Hd
+4) a medical hearing test platform with configurable tests: https://bit.ly/3mwfVX1
+5) an IoT platform for solar station and indoor sensors analytics: https://bit.ly/3Mfs7qg: https://bit.ly/3Mfs7qg
+6) an analytics CRM for real estate agents: https://www.figma.com/proto/QpwO4zGtl7BX3XX1XFGzzx/Dinamicka-Behance?node-id=147%3A405&scaling=contain
+7) a sports analytics dashboard/web app for Australian football: https://bit.ly/37Jxik4
+8) a chart-based analytics dashboard: https://xd.adobe.com/view/e618e0fa-0501-4d30-70ab-aeec790b61b6-9029/
+9) a service platform with notifications, messaging/chats, booking consultations, calendars, calling, and payments: https://bit.ly/32nt5LG
+10) a remote patient monitoring platform with breathing exercises: www.figma.com/proto/ehpSy6c6LNTfOTjMjLcDy2d8/Dashboard-breath-better
+11) a subtitle editing web app: https://www.figma.com/proto/RMZQTogyg43kNKz3iBroaE/AmberScript-(Portfolio)
+
+---------------------------------------------------------------------------------------------------
+
+Vue.js Recent Work
+1. Invoice Station enables freelancers or just anybody to create invoices and accept payments in local currencies through bank transfers across many countries.
+- http://invoice-station.atif.work/invoices
+
+2. Wallpaper Configurator - A tool to design your own Interior wallpaper for walls using HTML Canvas, set your wall dimensions, configure the wallpaper and place your order
+- https://wallworthy.originalpeople-dev.com/wp-content/themes/wall-warthy/dist/
+
+3. Velux Calculator - Development of (Skylight Window) price calculator /find a partner tool that helps user find their price and installation partner
+- https://dakraamplaza-calculator.netlify.app/
+
+4. Firechat Online - Chat app built using Vue.js with Firebase as backend
+- https://firechatonline.netlify.app/
+
+---------------------------------------------------------------------------------------------------

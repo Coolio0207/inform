@@ -1,0 +1,215 @@
+Video Conference Rehearsal
+--------------------------------------------------
+Linkedin: https://www.linkedin.com/in/yoshiro-morino-25265b222/
+Github: https://github.com/kingwebdev0105
+Phone Number: +1 412 528 1796
+First Name: Yoshiro 
+Last Name: Morino
+National: Japanese
+City: B2, 3 Luk Hop St, San Po Kong, Kowloon, Hong Kong
+------------------------------------------------------
+Thank you for your attention.
+My name is Yoshiro Morino from Japan.
+I am a full-stack developer, graduating from the Department of Computer Science at The Hong Kong University of Science and Technology in Hong Kong, and have worked for 5 years at Shining World Digital Company.
+I learned general knowledge about software at university, and I mainly developed websites and mobile apps at Shining World Digital Company.
+I participated in front-end development using various front-end frameworks such as React.js and Vue.js, and sometimes also participated in back-end development using php, node.js, and python.
+My strengths are creative coding and the spirit of overcoming difficulties.
+Recently, I have been interested in blockchain technology and have identified chain nets including Ethereum and Solana, and developed Web3, Solidity, and Smart Contracts.
+
+My experiences:
+- Back-end and Front-end development 
+- Payment Integration (Paypal, Stripe, Worldpay, Afterpay) 
+- Google Map & Social API integration 
+- Firebase, Cloudstore, Google Cloud integration 
+- SMS api integration like twilio, africanstalk. 
+- Wix & Weebly website design and development 
+- Third-party API integration and data reporting from social accounts like FB, Instagram and Linkedin. 
+- Wordpress plugin building and customization. 
+- Web hosting management. 
+- CentOS, Ubuntu, Debian OS management. 
+
+My Skill sets:
+• 3+ years React.js, Angular, Vue.js
+• 1+ years Next.js
+• 4+ years Node.js
+• 2+ years Ruby
+• 1+ years Rust experience
+• 5+ years Python experience
+• 8+ years PHP experience
+• 2+ years GraphQL, Apollo
+• 1+ years Web3, Solidity, Smart Contract, Ethers.js experience
+
+You can find examples of my past building site on the following links.
+www.avaxrent.com
+www.glovoapp.com
+www.mylifecoach.me
+www.alltherooms.com
+
+I'm a full-time freelancer, so it is possible to communicate 24 / 7 and work in the client's time zone.
+I'm looking forward to doing business with you!
+"Words may inspire but action creates change.” – Simon Sinek
+Thank you for listening to my presentation.
+ 
+-Front-end project
+www.avaxrent.com
+The project is an online rental system that provides car rental services in more than 40 locations across Croatia.
+This project is built with React.js and Gatsby.js frameworks, and the production period was 2 months.
+Basic functions include rental price selection, route selection, period selection, and reservation function.
+I was in charge of the front-end part.
+I built the site according to the client's design using React.js and Gatsby.js framework.
+This project was built with two other members besides me, one in charge of the back-end side and the other in charge of the design side.
+The difficult part of this project was the problem of integration with Google Maps and processing outside of the local area.
+
+www.glovoapp.com
+Glovo is the app that connects users, businesses and couriers to get the best products in the city in minutes.
+We have chosen Vue.js and Nuxt.js as frontend building frameworks.
+This site is an advertising site for the Glove app.
+
+
+-Blockchain
+
+I am a blockchain developer that has rich experience in deploying own tokens for ERC20 and ERC721, swapping with uni-swap and pancakeswap, trading bot, and NFT marketing. Built an NFT game like crptokitties and integrate it with ERC20 token(BNB and ETH). Very familiar with Opensea for NFT marketing and built mobile app with wallet and NFT tokens. I've completed a lot of Defi and DEX projects on Ethereum Blockcahin for 3 years. Currently, I have rich experience about ERC20 and BEP20 smart contracts via a lot projects on Ethereum, BSC network. Now expert of Tokenomics and often used web3 to integrate several smart contracts to different blockchain to frontend design.
+
+My main skill is Solidity, Web3.js and I used almost modern typescript in web development like react, vue, angular, and node for frontend side and PHP, Python(Django, flask), and java spring for backend side with MySQL, NoSQL(Mongo DB), and Firebase.
+
+My experiences:
+- Smart Contract Audit,
+- ICO and Token Implementation,
+- ERC20 and ERC721 Token Standards,
+- Smart Contract Consulting,
+- General Smart Contract Implementation,
+- Consulting in the area of Ethereum Blockchain,
+- Project and Product Management.
+
+- Past NFT site urls
+In the past, I have developed the following website development, DApp, and NFT sites.
+
+cryptorugs.org/#/
+thedogepoundnft.com
+niftydudes.com
+bcsnft.io
+thetigersguild.com
+
+The designs are provided by the client, and I took charge of the front-end and back-end parts.
+
+- Web Engineer Role
+I believe that the role of a web engineer is to build, manage, operate, and maintain a corporation or individual's web app or website (simple) with web development language, programming knowledge, computer network configuration, and other related knowledge.
+
+- Backend Role
+As a full-stack developer, I am developing both the front-end and the back-end, but here too, I emphasize the role of the back-end.
+The reason is that the back-end part may have less code than the front-end part, but it is the part that implements the programmatic functions that can perform the basic functions of the web app, and it can be seen as the heart of the website.
+
+- why IT
+I jumped into this field with the conviction that in the future era, it is impossible to advance even one step without knowledge of information technology.
+In the future, I will acquire Blockchain technology and AI technology, and in 5 years, I will launch a 10-person company with my name.
+
+Questions:
+- When is payday in the month?
+- How many people will my team consist of and who is the team manager?
+- I would like to know the amount of salary I will receive and how to pay.
+- I want to know which site or field should be developed.
+- I want to get paid by paypal, payoneer, Wise.
+- Do you have more questions to ask?
+- There are no specific questions at this time.
+
+=============
+NFT Mint
+=============
+1. INSTALL WEB3
+2. CREATE A MINT-NFT.JS FILE
+3. GRAB YOUR CONTRACT ABI
+Our contract ABI (Application Binary Interface) is the interface to interact with our smart contract. 
+4. CONFIGURE THE METADATA FOR YOUR NFT USING IPFS
+our mintNFT smart contract function takes in a tokenURI parameter that should resolve to a JSON document describing the NFT's metadata— which is really what brings the NFT to life, allowing it to have configurable properties, such as a name, description, image, and other attributes.
+
+Interplanetary File System (IPFS) is a decentralized protocol and peer-to-peer network for storing and sharing data in a distributed file system.
+We will use Pinata, a convenient IPFS API and toolkit, to store our NFT asset and metadata to ensure our NFT is truly decentralized.
+
+STEP 5: CREATE AN INSTANCE OF YOUR CONTRACT
+STEP 6: UPDATE THE .ENV FILE
+in order to create and send transactions to the Ethereum chain, we’ll use your public ethereum account address to get the account nonce
+STEP 7: CREATE YOUR TRANSACTION
+ The nonce specification is used to keep track of the number of transactions sent from your address — which we need for security purposes and to prevent replay attacks.
+
+STEP 8: SIGN THE TRANSACTION
+STEP 9: CALL MINTNFT AND RUN NODE CONTRACT-INTERACT.JS
+
+=========================
+Smart Contracts
+========================
+The purpose of EVM is to serve as a runtime environment for smart contracts built on Ethereum. 
+In the Ethereum Virtual Machine, Gas is a measurement unit used for assigning fees to each transaction with a smart contract.
+
+Smart Contract is the business logic or a protocol according to which all the transactions on a Blockchain happen. 
+
+It is a stand-alone script written in Solidity, compiled into JSON, and deployed to a particular address on the blockchain.
+Smart contracts can be deployed to the decentralized database for a fee proportional to the storage size of the containing code. 
+
+Solidity compiler converts code into EVM bytecode, which is sent to the Ethereum network as a deployment transaction. 
+
+1. How to concatenate two strings in Solidity?
+Two methods are available.
+One is to use the strConcat function, and the other is to use the ABI function.
+
+3. Can you explain what Ethereum ABI and Bytecode are?
+EMV Bytecode is an executable code on EVM and Contract ABI is an interface to interact with EVM bytecode.
+
+4. How would you design an 'upgradable' smart contract?
+There are several technologies here.
+Master-Slave technique is one of the most basic and easy to understand technique for making smart contracts upgradable.
+Eternal Storage contracts
+in this technique, we separate the logic and data contracts from each other.
+the logic contract can be upgraded as many times as needed ,and the data contract is notified of the change.
+
+=========================================
+NFT Game
+=========================================
+https://cryptoflowers.io/
+This site was built in May 2021 with React.js and Next.js.
+I was in charge of the integration between the front-end part and Web3.js in this project.
+The team consisted of 3 people, one was a game designer, one was a backend developer, and the other was me.
+We released this game in 40 days from the time the game scenario and design were prepared.
+It works on Ethereum network.
+
+https://www.degenape.academy/
+This site was built in August 2021 with Vue.js and Nuxt.js, three.js.
+I was in charge of the integration between the front-end part and Web3.js in this project.
+The team consisted of 2 people, one was a backend developer, and the other was me. The design has already been preparing for customers.
+We released this game in 30 days from the time the game scenario and design were prepared.
+It works on Solana network.
+
+DApp (Decentralized App) development:
+You can develop the front-end with any web development technology like JavaScript.
+The back-end of a DApp must consist of smart contracts.
+
+TOKENIZING GAME ASSETS
+The gaming industry is utilizing these security features of NFTs. Game developers can create NFTs for the game assets.
+
+NFT GAME MAIN POINT
+- The user interface design parameters and decisions;
+- Gameplay scenarios;
+- Description of the game items;
+- The usage of the utility tokens, governance tokens, and non-fungible tokens.
+
+NEED TOOLS
+Metamask, Ganache, Web3.js, Truffle, 
+
+How does it work NFT Marketplace
+ 
+These are the general steps involved in creating an NFT market for your game:
+
+● Register / register an account on the platform.
+● Set up a crypto wallet
+● Upload the digital collectible, if any, your game.
+● To put it up for sale, you have two options: set a fixed price or auction the item and choose a bid.
+● Digital assets will pass moderation.
+● Once the NFT is approved, your target customers will find it on the sales list.
+● You can now start accepting offers.
+● Once the auction ends, the platform will notify you about the best offers.
+● MiT Software will regulate and approve the transfer of funds and digital assets.
+
+==========================
+Web 3 Front-end Integrate
+==========================
+For our React frontend to be able to connect and communicate with our smart contract, it needs the contract’s ABI and address.
+ABI (or Application Binary Interface) is a JSON file that is automatically generated during contract compilation. 

@@ -1,0 +1,17 @@
+-----------------------SMS experience------------------------------------
+
+Especially, I made many CMS project regarding requirement of several clients.
+Let me show you one of my previous projects to verify me.
+
+Title - BlueberryCMS
+Technologies Used - C#, Asp.net Zero. Dot Net Core, Dot Net Boilerplate, Telerik, JavaScript, HTML5, CSS3, jQuery 2.1.1, Google Font API and Google Analytics.
+Description - BlueberryCMS provide PaaS platform for web designers and marketing agencies for increasing their productivity with minimizing their expenses and maximizing return on investment for their clients.
+Features implemented:
+- Provide PaaS Facilities.
+- Sign-up page is developed on Landing Page.
+- reCAPTCHA verification is integrated with the site.
+- Simple subscription plan with button functionality is created and linked on the landing page.
+- Fade In animation is linked with some pages of this site.
+- This site provides a dual-mode designing facility with client can use drag and drop option or client can edit code also.
+- Social media platform are integrated to this site.
+- This site is hosted over Amazon hosting providers on Nginx server.

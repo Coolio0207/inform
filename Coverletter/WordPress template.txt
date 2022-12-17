@@ -1,0 +1,33 @@
+Hi,
+I have 8 years of experience with WordPress.
+....
+
+https://andprint.ca/
+It is custom developed eCommerce website using WordPress and WooCommerce. Client provided PSD design files and I created custom theme.
+Follwoing Plguing are used
+✔ WooCommerce
+✔ WPBakery 6.0.5
+✔ Advanced Custom Fields (ACF).
+Website is responsive and compatible with all major browser
+
+https://processlab.co/
+Optimize WordPress website to have 95+ scores on PageSpeed Insights (both Mobile & Desktop), Lighthouse, and A on GTMetrix on ALL pages.
+
+https://customfiltersdirect.com/
+It is a very complex eCommerce WordPress website. There were many custom requirements that were achieved using very complex custom coding.
+✔ used Crocoblock ( jet engine) to create custom fields and woocommerce booking for book dates 
+✔Payment Gateway
+✔mailchimp integration emails
+✔Smart Copouns for Class's Package
+
+https://yourneighborhoodadjuster.com/
+It is custom developed eCommerce website using WordPress + WooCommerce and Elementor. Client provided PSD design files and I created custom theme.
+Follwoing Plguing are used
+1- WooCommerce
+2- Elementor
+
+https://scuddlesusa.com/
+The client wanted his website redesign for Shopify website to look more professional. I did my own research and provided the client want three designs. The client picked one of the design and I proceeded to implement the design within Shopify.
+
+I can start work right away.
+Best Regards.

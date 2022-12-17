@@ -1,0 +1,28 @@
+I am a full-stack developer with 20 years of experience. I love languages ​​and frameworks!
+
+In so many years I have acquired Software Architect skills, dealing with both the design of new web applications and their implementation.
+
+I also have deep knowledge of backend development, here is a summary of my skills:
+
+- Vue.js 2 and 3
+- Vuex
+- CSS, SASS, Bootstrap, Bootstrap Vue, Vuetify
+- jQuery
+- Vanilla Javascript, custom JavaScript, ES6
+
+My backend skills include:
+
+- Java Spring Boot
+- Node.js
+- PHP , Laravel
+- Redis
+- Elasticsearch
+
+As a developer my mantras are: DRY and KISS.
+
+What makes my customers the most satisfied is my wide experience and reliability.
+
+In fact, in addition to technical knowledge, I acquired the skills necessary not only to develop the software but also to manage a project, even a complex one. This is the difference from low budget freelancers.
+
+
+By working with me you can entrust me with the project as a whole, you will not have to worry about the technical or management aspects, this is what I take care of!

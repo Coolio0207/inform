@@ -1,0 +1,11 @@
+When it comes to Retool I have rich experience with this.
+My Last engagement was ended last Saturday and here is the link.
+https://vinsyt.com
+There I worked on "vinsyt media inspector" and it was to CRUD.
+There are three filter fields (Year, Model and Make) and three types of data(image, photo and video)
+For this I created a listview that has 3 tabs(image, photo and video), checkbox for multi-delete and modal for edit.
+Also I implemented SMS in Retool using SendGrid, Twilio and SMTP-SendGrid.
+There is User data(name, phone, email).
+User's data shows in Table. There is a Text field .Select one record  and press 'send' button.
+Then it is sent to email and phone.
+I have huge experience with Retool and I am sure I can do it for you.

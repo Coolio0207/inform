@@ -1,0 +1,51 @@
+Looking for someone who is very familiar with the Uniswap v3 Liquidity Pools feature. E.g. Who knows how to create a new pool position and how to close a position via API calls, etc. You should be an experienced web3 developer who can build for us a python library which we can use with Uniswap v3. The library should work with all of these networks: Ethereum, Polygon, Arbitrum.
+
+If for some good reason you believe that this library should be written in NodeJS then let us know, maybe we can also accept a JS solution. However, we strongly prefer Python. Anyhow, we are open to discussion about this.
+
+Here is how we intend to use this library:
+
+Initially from my own Python program I would call an "Init" function of the library with a trading wallet address of mine, the secret keys for that wallet, and the network selection (e.g. 0 = Ethereum network, 1 = Polygon network, 2 = Arbitrum network)
+
+After the Init call I should get back a Python object with the following functions that I can call from my program.
+
+1. GetAmount(Token1) -- should return how much of Token1 I currently have in my trading wallet.
+
+2. GetCurrentPrice(Token1, Token2) -- should return the current price as "Token1 per Token2"
+   Example: Token1 is ETH, Token2 is USDC. Then this function should return how much USDC is the equivalent of 1 ETH at the moment.
+
+3. CreatePoolPosition(Token1, Token2, FeeTier, Token1Amount, Token2Amount, MinPriceToken1perToken2, MaxPriceToken1perToken2) -- it should create a new position, return the ID of the newly created pool on success and an error on failure.
+Note: While reading the API docimentation of Uniswap v3, I think I saw an option where I could use a "swap and create pool" feature, so that would allow me to create a pool position even if I only have just one of the tokens in my trading wallet. This option must be investigated and should be used if it is really available. Any suggestions on how to create a new pool position the best way (e.g. what parameters do I need to pass to it) would be highly appreciated! We are open to suggestions, we want to use the best available option to create a new position fast and with as little steps as possible -- so if we can eliminate the need for a separate swap API call in case we only have just one of the tokens in our trading wallet, that would be ideal!
+
+4. ClosePoolPosition(poolID) -- it should close the given position (and automatically remove all liquidity and collect all unclaimed fees -- I assume this happens all automatically when we close a position)
+
+5. GetNFTList(HideClosedPositions=true) -- should give me back a list of all liquidity NFTs I currently have in my wallet. Basically a list of pool positions associated with my trading wallet that are shown on this URL: https://app.uniswap.org/#/pool
+   I should be able to pass a parameter to this function: HideClosedPositions = true/false, default should be true.
+   The returned list should contain objects, each object should have properties containing all the data belonging to that given position which is displayed on the position's URL (shown when I click on a position on the Uniswap web site)
+   such as
+   	ID: the poolID
+   	MinTick: numeric value
+   	MaxTick: numeric value
+   	isActivePosition: true or false
+   	isInRange: true or false
+   	token1: e.g. USDC
+   	token2: e.g. WBTC
+   	feeTier: e.g. 0.3%
+   	LiquidityToken1: amount of my Token1 in the liquidity pool
+   	LiquidityToken2: amount of my Token2 in the liquidity pool
+   	UnclaimedFeeToken1: amount of Token1 I can claim
+   	UnclaimedFeeToken2: amount of Token2 I can claim
+   	MinPriceToken1perToken2: price value
+   	MaxPriceToken1perToken2: price value
+   	CurrentPriceToken1perToken2: price value
+
+6. Swap(Token1, Token2, AmountToken1, AmountToken2) -- Important: Only one of AmountToken1 or AmountToken2 should be specified at a time! The other amount we pass must be 0. Then whatever Token I specified an amount for, it would swap that amount of that token to the other token. Would be nice if at the end it returned a tuplet telling how much Token1 and how much Token2 I have in my trading wallet after the swap.
+
+We may need more features, more API functions in the future. Of course, we will pay for all additional work.
+
+Also you should know that we don't really know how much we should pay for such a library as this. So if we happen to offered a way too low price then we apologize. Then please send us how much do you think would be a fair payment for this job to be done.
+
+We are also open about suggestions on how we should interact with the blockchain. For example, we opened a free infura.io account already. However, it might be better if we ran our own node? Having a server to run a node in a server room (or in our own office) should not be an issue for us. Please advice what we should do! We'll need to run a lot of API calls per minute. Therefore we think that it would be better if we had our own Linux server and running a full node on it. But we don't know how to get started! So if you can help us with the specification of such server and the configuration of the software on it, that would be great! In case an infura.io account will not suffice.
+
+If you have any questions about this job then please don't hesitat to ask!
+
+Thank you!

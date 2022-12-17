@@ -1,0 +1,11 @@
+Hi Dmitry,
+I have 8 years of experience with Vue.js.
+When it was first publised in 2014, I am very much interested in this new JavaScript framework and I have studied .
+I have extensive experience with this language.
+I am very much familiar with Vue.js, Vue2 and Vue3.
+
+When it comes to Vue3, there are three APIs(Global API, Options API and Composition API).
+the composition API is the new api and I am very much experienced with this.
+Also when it comes to store of Vue, in the past I used Vuex but I use Pinia for store.
+With this Pinia I can create multiple stores that can be imported into components directly where they're needed.
+This allows bundlers to better code split and provides better TypeScript inferences.

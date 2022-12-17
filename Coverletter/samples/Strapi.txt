@@ -1,0 +1,2 @@
+https://strapi.edenfarm.tech/
+https://bdp.agsat.uz/

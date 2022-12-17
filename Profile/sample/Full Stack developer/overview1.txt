@@ -1,0 +1,6 @@
+1)As a Full stack developer, I create mainly complex websites and Saas for different niches such as Fintech, Real estate, E-learning.
+2)Some of my projects are done with monolithic architecture and microservice.
+3)I have pretty enough experience with SQL and NoSQL databases.
+4)Working as a remote developer, I have experience working on Agile or Scrum, so I can easily adapt to your conditions
+5) I can develop both parts of the project Frot-end and Back-end from scratch
+6) I am very much familiar with Shopify, Ghost CMS and Retool

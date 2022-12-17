@@ -1,0 +1,75 @@
+PHP : Laravel Framework
+NodeJs : Express Framework
+
+Front-End Technologies:
+Javascript: React & Angular.
+Typescript: Angular 8,9,10 & 11.
+
+DB: Mysql, GraphQl & Mongo.
+Testing Framework: Cypress Framework
+
+Tools: Docker
+
+Charting Library: D3, NVD3 & Highcharts.
+
+UI Framework: Tailwind, Bootstrap, Material, PrimeNg, AntD
+
+Agile Tool: JIRA, Asana, Yodiz, Trello
+
+Communication: Slack, Teams, Google, Skype.
+
+Version Control: GIT, BitBucket & Gitlab.
+
+Some of my links:
+
+1) http://rnwent.com/
+2) https://tokenize.exchange/
+3) http://www.artflute.com/
+4) https://www.intempt.com/
+
+Integrated react, angular with majority of the backend technologies such as PHP, Node, Java & Rails.
+
+I can give my 40 hours/week.
+
+Thanks,
+----------------------------
+Hey,
+
+Let me explain exactly how we will build you an AWESOME new store for your brand.
+
+My team and I have done this successfully for dozens of other brands like yours this year (which also happen to be 6 and 7 figure companies).
+
+We’ve found a way to produce stores that make your ecommerce business THRIVE, especially in your industry. It’s based on the following winning strategy:
+
+1. Using proven psychological principles in our designs to remove any purchase friction
+
+2. Applying bleeding edge features from Shopify, so your store is fast and bug-free
+
+3. Creating a seamless mobile experience, since over 75% of your customers likely come from mobile
+
+4. Constant focus on building for SALES - this glues together the above 3 to make checkouts ridiculously simple & fast
+
+Below you can find some examples of our previous work applying this strategy:
+
+✔ flowrishlashes.com - redesign for Canadian beauty brand resulting in 2X Sales
+✔ deceptiontoronto.com - redesign for Canadian streetwear brand
+✔ fodzyme.com - development for Y-Combinator funded nutrition brand
+✔ zoe.good-vets.com - dog health supplement store by Chicago chain veterinary
+✔ deniceroma.com - custom luxury fashion marketplace
+✔ int.bodyboss.com - fitness regime website
+✔ velomino.com - LA based comfort-tracksuit brand
+
+To show you in more detail how we can apply this strategy to you, let’s have a call to discuss your exact requirements.
+
+I will help you with a plan for getting this store running and making sales within a month.
+
+During our call, you'll receive the necessary clarity that you can apply to your project no matter who you choose to work with.
+
+Make sure to message me on here with the time you booked, in order to start the Upwork chat process.
+
+Please note: the bid attached to this proposal is a placeholder, because we need to discuss the project specifics first on our call.
+
+Looking forward to speaking with you.
+
+Regards
+--------------------------

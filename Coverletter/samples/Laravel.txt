@@ -1,0 +1,6 @@
+✔ Database Management Skills 
+✔ Understanding OOP and MVC
+✔ Knowledge of Project Management Frameworks
+
+✔ Livewire
+✔ Alpine

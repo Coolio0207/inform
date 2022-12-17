@@ -1,0 +1,47 @@
+Describe your approach to testing and improving QA
+
+I will use a QA process to help you detect areas for improvement and optimization. This means the final product or service will have been tried and tested through continuous feedback loops.
+
+
+
+Describe your approach to testing and improving QA
+
+A Test approach is a method to implement in a project and describe how testing would be achieved.
+Different Test Approches:
+-Active and heuristic approaches
+-Consulting approaches
+-Methodical approach, which is predicated on Fail Test Cases.
+Improving QA:
+-Firstly we create Strategy then test the Products and Applications.
+-Create Test Sheet
+-Create Test cases
+-When developers fix the bugs, retesting is mandatory.
+
+
+
+Describe your approach to testing and improving QA
+
+Testing QA:
+we should use manual test and automatically test with testing tool(eslint or other library)
+Improving QA:
+Firstly we create Strategy then test the Products and Applications.
+-Create Test Sheet
+-Create Test cases
+-regression test after developer fixed
+
+
+Describe your approach to testing and improving QA
+
+Before pushing to the main-net we run countless tests on local blockchains and test-nets. We also have an independent in-house auditing team that designs custom test scripts to run against every smart contract we produce to verify each function from the simplest of variables to complex time locking algorithms.
+
+
+Describe your approach to testing and improving QA
+
+I am well versed with writing tests and testing framework.
+
+
+Describe your approach to testing and improving QA
+
+- Unit and e2e tests
+- Manual testing based on existed and new test cases
+- Support and update test plan

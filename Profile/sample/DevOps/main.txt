@@ -1,0 +1,205 @@
+pillar best, [11/15/2022 2:26 PM]
+----------------------------!!!!!!!!!!!!!!!!!Top Rated Plus!!!!!!!!!!!!!!!!!!!----------------------------
+
+Hey 🙂
+
+I am super excited to work with you on this project and complete this project asap
+As per the above job posted at your end, I would like to inform you that I have experience with making custom API, Web services, Making REST API and making responsive websites.
+
+I can pull this job out efficiently, as I have worked on customization of the projects earlier. I believe in long term customer relationship and want to be associated with you for future projects as well.
+
+Here is my previous completed API projects :
+http://anacostia.live
+https://www.1a-yachtcharter.de
+https://www.theglobesailor.com
+
+Here you can check, I have worked those API Integration in WordPress:
+- Twilio API, Paypal API
+- REST FULL API
+- Stripe API
+- MailChimp API.
+
+Here are some of my professional highlights:
+- Making web Services and API
+- REST API Development.
+- JavaScript Expert (Node.js / Angular.js / Meteor.js / Ionic /React.js)
+- PHP Laravel/Symfony Framework
+- SugarCRM/zoho CRM/CiviCRM
+- Wordpress/Drupal/Magento
+- Mysql/PostgreSQL
+- Linux/Apache/Nginx/Varnish Cache
+- BDD/TDD Unit Testing / Protractor / Selenium
+- GIT/Gulp/bitbucket
+
+Looking forward for your positive response.
+
+Thanks
+Ravinder Kumar
+
+
+
+----------------------------!!!!!!!!!!!!!!!!!Top Rated Plus!!!!!!!!!!!!!!!!!!!----------------------------
+
+Hello,
+I am a vetted expert in:
+✔️API Integration
+✔️JavaScript
+✔️Node JS
+✔️Python
+
+I am the candidate for this position.
+
+I’m not on here to be a salesman. I trust that you can appreciate that it has never been within my skill set, nor do I desire it to be. Salesmanship is possibly your position in running your company. As for me, I am here to work in my specialty, and what I am certain of is that I can assist you at an expert level with this work.
+
+So, from a technical and practical perspective, my personal and company work histories are both top-of-the-line and speak for themselves, (top-rated plus and expert-vetted, top 1%, respectively). In working with me, you will achieve the same results.
+
+Please read through these very detailed reviews that I’ve also acquired on Clutch to save us both time in the call phase of our introductory process::
+https://clutch.co/profile/guaranteed-software#reviews
+
+I’ll let that be my sales pitch and hope that after we achieve success, we recognize that we've validated that results speak louder than sales pitches and slick words.
+
+FAQ:
+
+I specialize in long-term partnerships with established enterprise-level businesses.
+
+My communication is at a premium level – We can communicate in real-time via Slack, Zoom, Asana, and whatever other technologies you may use. Additionally, I make myself available via phone, which is also provided below.
+
+Please only contact me if you are prioritizing high-end results and there is long-term potential in our work. I am not a budget service and will not be engaging in trying to underbid “third-world off-shore” firms. That is for a different person or company and for a different standard in results.
+
+I’m looking forward to chatting!
+
+Leon McCottry
+Founder of Guaranteed Software and Guaranteed Marketing
+https://guaranteed.software
+https://guaranteed.marketing
++1.347.855.5247
+
+
+
+
+----------------------------!!!!!!!!!!!!!!!!!Top Rated Plus!!!!!!!!!!!!!!!!!!!----------------------------
+Hello 🙏,
+
+I hope you are doing good!!
+
+I would like to submit my candidature for this job post as I am a professional software developer and DevOps engineer with 5+ years of expertise in Python, javascript programming language, and cloud technology.
+with the ability to produce quality code and cloud setup that is maintainable, efficient, reliable, and secure.
+I am very confident about the API task mentioned in the description.
+🌟 My Expertise includes
+👉 A Fluent English communicator with Time Managing skills
+👉 WEB development
+👉 API development
+👉 WEB Scraping
+👉 Automates manual process with Shell script or Python script 👉� CI/CD configuration GitHub Action | Jenkins | AWS Pipeline
+👉 Cloud architecture with Terraform and AWS cloud formation
+👉 Production and Staging Server setup
+👉 Project migration without downtime
+👉 Project development based on Microservice architecture
+👉 Project based on serverless architecture
+👉 Project management with tools like Jira | ClickUp | Trello
+
+🌟 I did work with python based technology including
+👉 Django (highly scalable web development python based framework)
+👉 Django rest framework (Django-based REST API development framework)
+👉 Django Celery (background-based long process)
+👉 Beautiful Soup (HTML parsing)
+👉 Pandas (data analytics)
+
+🌟 I did work with javascript-based technology including
+👉 ReactJs 👉� Vue 👉� Core javascript
+
+🌟 Database or data management technology includes
+👉 MySql (relational database)
+👉 PostgreSQL (object-based relational database)
+👉 Redis (in-memory database)
+👉 Elasticsearch | Kibana
+
+🌟 Cloud technology includes 👉� AWS EC2 (virtual machine on a cloud)
+👉 AWS S3 (data storage service)
+👉 AWS API Gateway
+👉 AWS Lambda (serverless platform)
+👉 AWS SQS (queue service)
+👉 AWS DynamoDB (NoSQL database)
+👉 AWS VPC
+👉 AWS Rout53 (DNS management)
+👉 AWS RDS (database service)
+👉 AWS IAM (user and permission management system)
+👉 AWS ECS (container service)
+👉 AWS ECR (container registry)
+👉 AWS ElastiCache
+👉 AWS SES (email service)
+👉 AWS ALB (load balancer service)
+👉 AWS Amplify
+👉 AWS Elastic Beanstalk
+👉 AWS cloud formation
+👉 Heroku
+👉 Oracle Cloud Infrastructure
+
+🌟 Devops technology includes
+👉 GitHub Action (CICD service)
+👉 Jenkins (CICD open source project)
+👉 Docker
+👉 Kubernetes
+👉 Nginx (webserver)
+👉 Terraform
+👉 Linux (Ubuntu/RedHat/CentOS) Bash Script
+
+🌟 Successfully completed project
+
+👉 Enable (2018)
+Summary:- edetailing platform used by medical representative
+Technology (Django, Gunicorn, Mysql, Nginx, AWS*)
+URL:- https://enablrclm.com/
+
+👉 Kirkus (2019)
+Summary:- book's reviewing platform
+Technology (Django, javascript, uWSGI, Postgres, Nginx, AWS*)
+URL:- https://www.kirkusreviews.com/
+
+👉 Jobringer (2020)
+Summary:- recrutement plateform
+Technology (Django, javascript, Daphne, Postgres, Razorpay, Nginx, AWS*)
+URL:- https://www.jobringer.com/
+
+👉 InferTalent (2021)
+Summary:- recrutement managemtn plateform
+Technology (ReactJs, Django, Daphne, Nginx, AWS*)
+URL:- https://www.infertalents.com/
+
+👉 Fare_Md (2022)
+Summary:- hospital and insurance cross-compare platform
+Technology (ReactJs, Django, Stripe, Postgres, Gunicorn, Nginx, AWS*)
+URL:- https://dev.faremd.com/
+
+👉 Regalytics (2022)
+Summary:- maintain a registry of changes in rules and regulations of the public sector
+Technology (Vuejs, Django, uWSGI, Mysql, Nginx, AWS*)
+URL:- https://www.regalytics.ai/
+
+👉 Xpert Direct (2022)
+Summary:- freelance or permanent work or resource find a platform
+Technology (ReactJs, Django, Mysql, Nginx, AW*)
+URL:- https://xpertdirect.io/
+
+👉 Get email
+Summary:- Find the email of the person belong's to any organization
+Technology (Python, javascript, AWS Lambda, AWS API Gateway, AWS SES, AWS S3, PostgreSQL, DynamoDB)
+URL:- https://getemail.io/
+
+pillar best, [11/15/2022 2:26 PM]
+🌟 Completed Certifications
+✔( Docker & Kubernetes: The Practical Guide [2022 Edition]) https://www.udemy.com/certificate/UC-71a1daac-e3b7-4665-91f1-ee0ef4efceba/
+✔( AWS Certified DevOps ) https://www.udemy.com/certificate/UC-34f270ec-db58-4e39-9057-fcbac2162c41/
+✔( Linux BASH Shell Terminal Command Basics ) https://www.udemy.com/certificate/UC-e1f52cbf-e942-43d8-9f83-8e6cdf75bf6c/
+✔( Business English: Management and Leadership) https://www.coursera.org/account/accomplishments/verify/TA4CKBANR7S2
+✔( Automate the Boring Stuff with Python Programming) https://www.udemy.com/certificate/UC-GHDL3JDS/
+
+🌟 I believe to learn more and it can be done by doing work for each project all make me better at what I do 🌟
+
+🌟 I am anticipating a kind response and would like to move ahead with the project as per your approval and suggestions 🌟
+
+👨‍💻 I look forward to having a conversation with you. 👨‍💻
+
+Regards,
+Jignesh Kotadiya
+----------------------------!!!!!!!!!!!!!!!!!Top Rated Plus!!!!!!!!!!!!!!!!!!!----------------------------

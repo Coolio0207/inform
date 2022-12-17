@@ -1,0 +1,31 @@
+I am working in the IT industry for more than five years now, and I have experience in the entire web development life-cycle and enterprise Linux infrastructure management.
+Even though I am a Unix Engineer, I am impressed by bubble.io, simply due to its ability to create websites within a short period of time, focusing more on the final idea instead of the programing language. Also, as an IT Engineer, I understand its capability of developing secure, scalable web applications like Airbnb, Spotify, and Twitter, or any other. It is a robust no-code framework that enables your business to go live & online within a short period.
+
+Even though it is a no-code platform, I see many people get stuck when it comes to workflows & some interface designs. My intention is to support them to overcome those issues using my bubble knowledge & the ability to understand from a programmer’s aspect.
+
+Bubble.io Web App
+I have experience in creating, managing, and tweaking Bubble.io web application.
+I am cable of starting a bubble.io web application development project from scratch and complete in a short period. If you are looking for such a person, I am available to start working on your project.
+
+My experience with bubble.io
+• Responsive web design
+• Data Structures Management
+• Backend Workflow Management
+• Third-party integrations via API connections
+• Payment gateways
+• Social Logins
+• Plugin Management
+• Google API Keys integration
+• Custom Domains setup
+• Setup Privacy Rules to secure your data
+
+RHEL Linux Support
+My main expertise is RHEL Linux. I have four years of experience deploying highly scalable systems and implementation of cost-effective solutions with Highly-Available infrastructure.
+If you are looking for such a person, I am available to start working on your project.
+
+• Cloud Infrastructure: Google Cloud Platform
+• Operating System Deployment of RHEL 6,7, 8 and SuSE
+• Virtualization and Container: KVM, VMwar.
+• Configuration management: Ansible
+
+Thank you.

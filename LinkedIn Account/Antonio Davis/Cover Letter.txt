@@ -1,0 +1,6 @@
+Hello,
+My name is Antonio Davis and I am really interested in this job.
+As an experienced RoR developer , I have 6 years of experience with Ruby on Rails.
+And also I have rich experience with JavaScript frameworks(Vue.js and Angular for 4 years), engine(Node.js for 6 years) and libraries(React for 6 years and jQuery for 8 years).
+I am really interested in this job and I really want to work long term.
+Best Regards.

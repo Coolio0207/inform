@@ -1,0 +1,45 @@
+https://afpnft.com/
+https://ridiculousdragons.com
+https://breed.thekittybutts.com/
+
+
+https://ernestindisguise.com/
+https://www.hakinft.io/
+https://thefruitos.com/
+https://www.cryptomonstersnft.com/
+https://lonelyshadows.com/
+https://www.silks.io/
+https://thetronwars.com/
+https://nft.tinyfac.es/
+https://www.apexpredators.io/
+
+Describe your recent experience with similar projects
+
+✔️https://www.cryptopap.net/ (Ethereum, ERC721A)
+Developed and deployed smart contract with ERC721A
+✔️https://www.billionaireclubnft.com (Ethereum)
+Developed and deployed smart contract with solidity.
+Completed frontend part with web3.js and react.js
+Using node.js, we have generated 10k ape images and metadata.
+✔️https://cryptotrunks.co (Ethereum mainnet)
+Description: User can buy NFTs with tree image and see it in opensea.io
+Using custom smart contract I have done perfectly.
+✔️https://inverseapeclub.site (Polygon)
+Description: Developed smart contract with solidity
+✔️https://thedudes.art (Ethereum mainnet)
+Description: I added dynamic html file as asset to opensea.io.
+Using smart contract and meta info, I have done perfectly.
+✔️https://solpunks.com (Solana)
+Description: I added minting functionality and random engine.
+✔️https://sollamas.com (Solana)
+Description:Using metaplex, I added 10k nfts and minting functionality
+
+
+https://www.sphynxnft.com/
+https://cosmicpaws.io/
+https://roguerabbitsrabble.com/
+https://www.thekittybutts.com/
+https://lionclub.sportsicon.co/
+https://www.secretsocietyofwhales.com/
+https://bullieverisland.com/
+https://hewerclan.com/

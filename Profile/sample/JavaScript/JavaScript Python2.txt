@@ -1,0 +1,48 @@
+Serious Full-Stack Developer. I'm very much a big picture thinker, and like to be able to grasp how everything fits together to bring value to end users.
+
+Significant Languages:
+Python / Django / Flask
+Node.JS / Nest.js
+PHP / Laravel
+Java / Spring Boot / Hibernate
+
+Cloud:
+AWS EC2 / Lambda / S3 / EC2
+Google App Engine / Functions
+Azure Apps / Functions
+
+Databases:
+MySQL
+Sql Server
+Postgress
+MongoDb
+Firebase
+
+Frontend:
+Html / Css / SASS / SCSS / JavaScript 
+AngularJS / Typescript / React / Vue
+
+APIs:
+Google Adwords / Analytics / Other PPC APIs
+Rest API (consumer/producer)
+GraphQL
+
+No / Low code platforms
+Retool
+Ghost CMS
+Kintone
+Shopify
+WordPress
+
+I'm a big fan of serverless architecture and all my current and new projects going forward are using serverless frameworks unless otherwise specified. Most of my projects at large firms are in monoliths and microservice architectures, however.
+
+I've been on Elance/Upwork/ODesk as a client for over 8 years, so I understand that you're not only looking for talent, but someone who can contribute to your business in a valuable way. I'm looking for clients who:
+
+1) Want to build a long-term business relationship
+2) Can communicate the needs of the business in a virtual environment
+3) Have interesting projects with potential to grow
+
+With MBA in Business Strategy, I have been involved as a business consultant for many international companies, so I can get involved in helping you reach your business as well as technological goals.
+
+I pride myself in writing scalable, testable, understandable code in short amount of time. My current pursuits are in the area of being up to date with the latest technologies and best practices.
+

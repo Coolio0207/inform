@@ -1,0 +1,21 @@
+
+I have worked with clients all over the world for 10 years now.
+I have extensive experience in JavaScript and JavaScript library or frameworks such as React and angular.
+JavaScript is the most propular programming language in the world and I have some related certifications.
+But nowdays I have an interest in no / low code developement.
+No code / Low code is future of programming.
+
+I specialize in building in Bubble.io, because it's 10x faster and 10x more cost effective, but I can also design and build your web app in other languages as well. Here is some of my work:
+
+kagent.com (Built with Bubble.io, FB’s Graph API, Sendgrid, and Mailchimp)
+Zensupplies.com (Built with docker - php7 - Yii2 - Redis - mysql - rabbitmq - amazon services - elastic search - sendgrid - sentry.io - logstash - kibana - angular.js)
+match.guidepostmontessori.com (Built with Bubbl.io and mandril)
+spacey.dev (built with html + css + php.)
+independentspeculator.com (built with html, css, js, cms magento (php))
+meetdandy.com (Built on wordpress)
+
+Some of these projects required not only the development work but also my design and UX/UI skills. I can work with you through a design process to wire frame your ideas into the best possible UX/UI for your users. I design predominately in Figma.
+
+Many companies leverage my skills as their outsourced CTO given my experience in both business and technology. I work with them to drive their technology strategy while overlaying a business context so as not to loose site of the business objective. I have worked with many startups to build out their initial MVPs in a smart and cost effective way.
+
+I also help with WorkFlow Automations using web hooks, APIs, and also No Code tools like Zapier and Integromat. I have built extremely complex automations that integrate companies production databases and their Marketing, Sales, and Customer Support divisions.

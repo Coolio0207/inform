@@ -1,0 +1,17 @@
+https://www.carsoup.com/
+Please allow me explain about my experience with Ghost platform .
+In my experience, Ghost is similar to WordPress.
+Ghost is a simple platform - it isn't power than WordPress instead, it is purely a blogging platform.
+It is only used for blogs.
+I have developed carsoup using Ghost.
+Carsoup helps everybody find the perfect car or truck AND the perfect price!
+As you know there are over 120 themes in Ghost5 and I used SOLO theme for carsoup.
+There I also implemented accessible is good for Color blind and Screen Reader using the main function of Ghost - Code Injection!
+This Ghost is very comfortable for building blogging page.
+
+
+ https://www.7shifts.com/blog/
+ https://betterweb.qwant.com/
+ https://blog.getaround.com/
+ https://www.xe.com/blog/
+ https://yeezymafia.com/

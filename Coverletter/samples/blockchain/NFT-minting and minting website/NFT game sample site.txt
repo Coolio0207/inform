@@ -1,0 +1,6 @@
+Please refer to my work on NFT MARKETPLACE and NFT-BASED PvP BATTLE GAME.
+Landing Page: https://develop.dft058q9upge7.amplifyapp.com/
+NFT marketplace: https://develop.dft058q9upge7.amplifyapp.com/market
+NFT game (PvP battle screen)
+link 1 - https://eu-game-build.s3.eu-central-1.amazonaws.com/build/index.html?playername=dayem&playerid=37&firstelementalid=10_5&secondementalid=10_6
+link 2- https://eu-game-build.s3.eu-central-1.amazonaws.com/build/index.html?playername=moiz&playerid=33&firstelementalid=10_7&secondementalid=10_8

@@ -1,0 +1,15 @@
+javascript angular react node.js svelte
+javascript vue ember meteor mithril
+javascript polymer backbone deno gatsby
+phoenix elixir
+blockchain solidty rust ethereum nft
+blockchain web3 dapp defi erc
+golang
+
+
+
+
+
+
+javascript, typescript, react, vue, angular, python , svelte, gatsby, ruby on rails, Elixir , mongodb , node , phoenix 
+ , solidity , rust  , ethereum , nft , web3,  dapp , defi , crypto , golang , php  , backbone , polymer

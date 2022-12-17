@@ -1,0 +1,35 @@
+If you’re looking for a designer that can create usable and beautiful digital products and can help you implement them - you’re in the right place.
+
+I’m an expert UI/UX Designer with extensive experience as a Front End WordPress Developer. I’ve been designing and coding for over 8 years and I always put the usability and experience of the end users before just visuals.
+
+The combination of my skills help me to choose the proper tools for the job in the dev process and make sure that the developers have the easy way to implement the design with the chosen tools.
+
+My role is not limited to the design itself, but I can also work directly with the developers making sure that the implementation is at the highest level by carrying out the QA process of the implementation. This enables creating a high quality digital product that takes all of the clients and users requirements into account.
+
+As an Elite Author on ThemeForest I have designed and developed over 20 commercial WordPress Custom Themes and HTML templates from scratch (starting from just an idea, through design and development, ending with post-sale support) which are used by over 6500 customers all over the world. I have great communication skills and I always maintain customer service on the highest level.
+
+What I can do for you:
+- new website/app design
+- complicated dashboards/admin views designs
+- audit, analysis and redesign of your current website/app
+- perform the QA process of the design implementation
+- landing pages that are optimized for conversions
+- create, maintain and extend design systems
+- web marketing design
+- prototypes, wireframes, user story mapping, user flows and research
+- front end WordPress implementation of the design (custom theme created from scratch)
+- web speed audit and optimizations
+- high quality mockups (HTML/CSS/JS) that are prepared for CMS implementation
+
+What I usually use in my projects:
+- Figma/Sketch
+- multiple apps from Adobe CC (Photoshop, Adobe Xd, Illustrator and more)
+- Invision/Zeplin for developer handoff
+- WordPress as a CMS of choice (including HTML/CSS/JS/PHP)
+- Git, Jira, Trello, Redmine, Slack and many more that depends on my Clients needs
+
+
+I am a part of Solutions/Design team at Polcode - a Polish dev house with +4000 successful projects delivered.
+My  goal is to approach clients with both business and technical understanding of their needs and give them the most effective software solutions.
+
+Looking forward to our cooperation!

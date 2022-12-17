@@ -1,0 +1,8 @@
+Let me start off with comparing Elixir to Ruby and Phoenix to Rails basing on experience with these languages/frameworks.
+
+Ever since I first tried building projects with Elixir, I have come to appreciate how functional languages lead to a much more maintainable codebase. So apart from the large performance gains of shifting to Elixir from Ruby, the more valuable gain is in the way of maintainability of your code. This is due to stateless modules, state management being isolated into specific parts of your code, no complex class hierarchies, etc...
+
+Without quantitatively measuring Elixir vs Ruby in terms of productivity, I feel I am much more productive with Elixir than Ruby. This has to do with the fact that it is a functional language and has more expressive abstractions. Pattern-matching and multiple dispatch help to reduce explicit conditionals and make your code clearer(also has to do with maintainability, of course). Meta-programming in Elixir is a lot more powerful and the performance cost in runtime is non-existent since most meta-programming is done during the compile-phase. This helps you to write libraries that would be reusable across your projects.
+
+When comparing Phoenix to Ruby on Rails, I find Rails a lot more bloated. It has provided a lot of 'conveniences' that are just not worth their costs in complexity. It takes a lot less to learn and understand Phoenix than Ruby on Rails. Phoenix follows the same principle of 'Convention over Configuration' and provides you with the scaffolding you need to immediately start building features for your web app. So far, it does just enough and does not do too much 'magic' as Rails does. It's a lot easier diving into the source of Phoenix than it is with Rails.
+

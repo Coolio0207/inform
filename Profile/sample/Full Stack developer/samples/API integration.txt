@@ -1,0 +1,75 @@
+I am well versed in API integration.
+
+Here is my previous completed API projects :
+http://anacostia.live
+https://www.1a-yachtcharter.de
+https://www.theglobesailor.com
+
+Here you can check, I have worked those API Integration in WordPress:
+- Twilio API, Paypal API
+- REST FULL API
+- Stripe API
+- MailChimp API.
+
+Here are some of my professional highlights:
+- Making web Services and API
+- REST API Development.
+- JavaScript Expert (Node.js / Angular.js / Meteor.js / Ionic /React.js)
+- PHP Laravel/Symfony Framework
+- SugarCRM/zoho CRM/CiviCRM
+- Wordpress/Drupal/Magento
+- Mysql/PostgreSQL
+- Linux/Apache/Nginx/Varnish Cache
+- BDD/TDD Unit Testing / Protractor / Selenium
+- GIT/Gulp/bitbucket
+
+I can start work right now.
+Best Regards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+Hi,
+I am an API integration expert.
+Let me explain about my prior experiences in API integration.
+1.I have implemented FedEx, USPS and UPS Ship API integration on Shopwired site.
+You can visit here: nwrm.myshopwired.com 
+Shopwired is an Ecommerce platform like shopify and there isn't any plugin that integrates with FedEx, USPS and UPS.
+There are only Shopwired FedEx, USPS and UPS Ship APIs so I developed a third party.
+When the user presses "Process" Button, the third API fetches information(Recipient, Billing address, Size, weight and so on...) from the shopwired site then it calls USPS, FedEx and UPS shipping rate API and receives information.
+And then it sets the value to the Shopwired site.
+The biggest challenge was matching Id of the item! 
+2.I also implemented integration between Aurmur and Eviivo.
+Aurmur lets users stay connected with their vacation rental business regardless of where they are.
+Eviivo is a  Property Management Platform. (Website Builder, Booking Engine, Multi-Property).
+Aurmur and Eviivo are not integrated directly so I had to develop third party that integrate Aurmur and Eviivo.
+For this I used the Guest Check-in API of Eviivo and Aurmur Door code API. When the user rent on Eviivo, the third API fetches data from Eviivo and send it to Aurmur using Aurmur door code API  then the Aurmur notify door code to the User.
+
+3.When it comes to Telegram, SendGrid, Slack and Salesforce API integration, I have rich experience in this field and I have done this work more than 72 times.
+If you need my help, contact me.
+Best Regards.
+ 
+ 
+----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Hi,
+
+I am the best freelancer for web scraping / crawling / automated data extraction solutions on Upwork. I am doing web scraping jobs only and completed over 2,000 jobs and served hundreds of clients.
+
+My prices are more than reasonable and affordable compared to the service quality you will get, so please do not hesitate to request a quote if you need an expert scraper / crawler.
+
+I am developing my own custom program for each website I am going to scrap / crawl. I'm not using a pre-built software so i can adapt my program to any format and any website easily. There is no exceptional case, i can scrape any website using any technology (captchas, ajax requests etc.).
+
+I can provide scraped data in whatever format you want: csv, excel, xml, mysql etc. I can also provide you the program i used to scrape that website. I am developing my programs in java and you may run them on windows, mac and linux/unix machines.
+
+Up to now I developed applications to extract data from well known e-commerce marketplaces, search engines, business and local directories, real estate listings and many other websites.
+
+If you still have doubts, please check my reviews and work history. You will see more than I can tell, many successfully completed projects and happy clients.
+
+Regards,

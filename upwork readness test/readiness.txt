@@ -1,0 +1,1 @@
+freelancers/settings/readiness-test/

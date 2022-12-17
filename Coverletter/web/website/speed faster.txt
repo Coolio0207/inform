@@ -1,0 +1,14 @@
+Hello . 
+I came across your job posting very carefully and it looks like best match with my background.  
+I see you are looking for a developer who can optimize your expecting website. right? I can do it! There are several ways to optimize.
+
+I am going to do 
+1.Compress and optimize your images
+2.Eliminate unnecessary plugins.
+3.Use asynchronous and defer loading for your CSS and JavaScript files. 
+
+Methods:
+1.I know you are going to use Tailwind Css so there will be useless codes 
+2.I know you are going to upload many images and videos , this will affect to speed. So I will compress these.
+
+Regards.

@@ -1,0 +1,9 @@
+- Designing, implementing, deploying, and maintenance of customer-facing analytics products.
+- Converting prototype code and specifications of models into deployable production-grade software.
+- Encouraging and advising on good practice in building reliable, scalable applications.solutions to optimisation and other problems within the shipping industry.
+- Collaboration with IT teams on design and implementation of efficient solutions for storing and querying a wide variety of operational data.
+- Collaboration with devops teams on testing, continuous integration and deployment, and monitoring of developed software.
+- Advisory role to product teams on design and architecture of software applications, libraries, and components.
+- Timely and responsible delivery of solid, dependable products with potential for high impact on the corporate business.
+
+

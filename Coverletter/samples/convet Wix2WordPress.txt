@@ -1,0 +1,17 @@
+Hi
+As an experienced No / Low code platform expert, I have very similar experience to this.
+Let my explain with live site.
+There are two ways to convert Wix to WordPress.
+1.Using RSS
+We can use RSS feed to quickly import all your posts and then manually migrate your pages and images.
+Since it's completely free, some site owners may opt to use the RSS feed method for budget reasons. While it will be more efficient than manually copying and pasting every single post and page into WordPress, it will still be time-consuming. That's because it only automates the migration process for your Wix posts. You'll still have to migrate your pages and images manually.
+
+2.automated migration plugin
+We can use  CMS2CMS for automated migration plugin.
+It also allows for a full data transfer. Your posts, pages, media, and other web assets can all be migrated. That means admins who want to save time and avoid any copying and pasting of their Wix content to WordPress will prefer this option.
+
+Followings are wordpress sites that are converted from Wix.
+https://schecktersorganic.com/    
+https://bodycarekielce.pl/  
+
+Best Regards.

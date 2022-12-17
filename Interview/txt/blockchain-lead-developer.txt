@@ -1,0 +1,60 @@
+- Introducing
+
+Hello, nice to meet you.
+I am so honered to meet you and glade to introduce myself in front of you.
+I have read your job proposal on Angle platform, and checked your official websites, and thought I could be a perfect candidate in this solidity developer role.
+
+I would like to introduce my career and skill set related to this role.
+
+- Web2 experience
+Actually I have specialized in computer science in college, and after graduate from schoole, I have worked as a full stack web developer.
+I have participated in various finance systems, ecommerce and ERP systems for several companies, and during the developement, I have gained rich experience in software development and engineering.
+This was good experience for me and thanks to this experience, I could be full stack blockchain developer and could lead the dev team to the success.
+
+- Why did I turn into the web3 from web2
+By the way, when it comes to centralized system, I felt that centralize is not comfortable with User Experience and the effecient.
+Users should trust the server manager, and needed to pass several complex process to complete their transaction.
+This might be very slow, even simple transaction might need several days.
+Four years ago, I turned into blockchain project, and started as a solidity smart contract developer.
+
+- Web3 and solidity experience
+In the last 4 years, I have built complex DeFi protocols, NFT ecosystem and cryptocurrency. 
+Those projects covered more than 60 smart contracts and complex web3 systems.
+I could handle these projects as I have rich experience in software development process and engineering.
+For now, I can make any complex smart contract system.
+Actually, mordern dApp systems require very large scale smart contract + web3 + React system.
+Also security and reliable is very important.
+I am specialized in solidity smart contract and logic.
+I have launched 3 complex DeFi protocols on Ethereum, BSC and Polygon, 2 NFT projects and 2 cryptocurrencies.
+Also made a metaverse smart contracts and Node web3 project on Avalanche.
+I am very familiar with all EVM comfortable blockchain.
+
+- Team experience
+When it comes to team cooperation, I am confident about it.
+I love team working, and I love learning and cooperating with others.
+We can solve all problem within team and it will lead the team to the success.
+Actually, in my previous projects , I have worked with team members - CTO, project manager, and auditors and QA engineers and frontend devleopers.
+I am very familiar with working with them.
+I have worked with United States, United Kindom and Dutch clients also us companies so far.
+There was many team mates from different country and timezone.
+Again I love teamworking and also that's why I want to work in company.
+
+- Why I would like to work in company?
+To be honest, without strong experience and high-level skills, noone can work in company.
+Four years ago, I exited regular job, and started freelancing for blockchain project. I was sure about blockchain's bright future.
+But I have no skill, so I decided to work as a freelancer.
+During the 4 years of freelancing, as you can see, I have gained strong experience enough to work in company and lead the team.
+I am proud of my previous projects and make sure I will be able to contribute to others.
+But no one can do better than all.
+A person should learn continuesly and learn new technology.
+This is possible in company and great team.
+Enough experience and skills, and desire to learn new skills, and good relationship with other friends is my reason why I am going to work in company.
+And I love your company's visoin, build new ecosystem on polkadot chain, this is new area in blockchain. I love learning new technologies.
+
+- How many team members do you have?
+- Is there any blockchain developer I can cooperate with?
+- Is there web3 and frontend engineer?
+- Working hours?
+- Which communication platform do you useally use? discord? or slack?
+- can you tell me a bit about technical hiring process?
+

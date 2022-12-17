@@ -1,0 +1,23 @@
+I am a senior Software Engineer with high skills and strong experience in Full-stack Web Applications, Blockchain, eCommerce Store Development, and some other fields.
+
+I am an expert in the following frameworks, programming languages, and platforms.
+
+- Frontend Development
+* React.js, Angular.js, Vue.js, Next.js, Gatsby.js
+
+- Backend Development
+* Node.js, Ruby on Rails
+
+- Blockchain
+* Ethereum, Web3.js, Solana, Smart Contracts, Solidity, Metamask, Ether.js, Hardhat, IPFS, Ethereum based NFT-Marketplaces / NFT-Collections.
+
+
+- Styling Frameworks
+* TailwindCSS, BootStrap, MaterialUI
+
+- Content Management, CRMs, and APIs
+* WordPress, ContentfulCMS, GraphCMS, HubSpot, Salesforce, Restful API, GraphQL API
+
+If you are looking for an individual developer to implement your business ideas, feel free to contact me. I am always available including the weekend.
+
+Best Regards,
